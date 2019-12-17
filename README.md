@@ -1,9 +1,9 @@
 # Party
-Bern - Haywood, the halfling druid
-Bill - Duridak Dusktoe, the dwarf fighter
-Justin - Podri, the gnome wizard
-Marcella - Agis, the dwarf druid
-John - Bogs, the goblin alchemist
+* Bern - Haywood, the halfling druid
+* Bill - Duridak Dusktoe, the dwarf fighter
+* John - Bogs, the goblin alchemist
+* Justin - Podri, the gnome wizard
+* Marcella - Agis, the dwarf druid
 
 ## Setting
 * Heading to Taldor to climb Druaga 
