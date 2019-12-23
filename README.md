@@ -1,7 +1,7 @@
 # Party
 * Bern - Haywood, the halfling druid
 * Bill - Duridak Dusktoe, the dwarf fighter
-* John - Bogs, the goblin alchemist
+* John - Boggs, the goblin alchemist
 * Justin - Podri, the gnome wizard
 * Marcella - Agis, the dwarf druid
 
