@@ -1,4 +1,4 @@
-# Party
+# [Party](party)
 * Bern - [Haywood, the halfling druid](party/haywood.md)
 * Bill - [Duridak Dusktoe, the dwarf fighter](party/duridak-dusktoe.md)
 * John - [Boggs, the goblin alchemist](party/boggs.md)
