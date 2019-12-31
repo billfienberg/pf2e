@@ -6,5 +6,5 @@
 * Marcella - [Aggis, the dwarf druid](party/aggis.md)
 
 # Sessions
-* [2019-12-16](2019-12-16.md)
-* [2019-12-30](2019-12-30.md)
+* [2019-12-16](sessions/2019-12-16.md)
+* [2019-12-30](sessions/2019-12-30.md)
