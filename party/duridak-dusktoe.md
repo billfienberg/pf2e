@@ -1,11 +1,11 @@
 # Duridak Dusktok (played by Bill)
 
-**Class**: Fighter
-**Background**: Martial Diciple
-**Size**: Medium (M)
-**Alignment*: 
-**Traits*: n/a
-**Deity**: Torag
+**Class**: Fighter  
+**Background**: Martial Diciple  
+**Size**: Medium (M)  
+**Alignment**: Neutral Good  
+**Traits**: n/a  
+**Deity**: Torag  
 
 ## Ability Scores
 **Str**: 18 (+4)  
