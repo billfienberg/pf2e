@@ -7,8 +7,8 @@
   * Class: Wizard
   * Level: 1
   * Money
-    * Gold: 10
-    * Silver 50
+    * Gold: 9
+    * Silver 48
 * John
   * Class: 
 * Justin
