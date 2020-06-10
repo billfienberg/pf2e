@@ -3,7 +3,12 @@
 * Bern
   * Class: 
 * Bill
-  * Class: 
+  * Name: Oslo
+  * Class: Wizard
+  * Level: 1
+  * Money
+    * Gold: 10
+    * Silver 50
 * John
   * Class: 
 * Justin
