@@ -9,12 +9,11 @@
   * Background: Dragon Scholar
   * Level: 1
   * Languages
+    * Common
+    * Draconic
     * Dwarven
-    * Elven
     * Gnomish
     * Goblin
-    * Halfling
-    * Draconic
   * Ability Scores
     * STR: 8
     * DEX: 14
@@ -25,7 +24,6 @@
   * Perception: Trained
   * Skills
     * Arcana: Trained
-    * 
     * Intimidation: Trained
     * Lore (Dragon): Trained
   * Money
