@@ -31,23 +31,23 @@
     * Silver 48
   * Spellbook
     * Cantrips
-      1. Detect Magic
-      2. Electric Arc
-      3. Light
-      4. Mage Hand
-      5. Shield
-      6. Telekinetic Projectile
+      1. [Detect Magic](https://pf2.d20pfsrd.com/spell/detect-magic/)
+      2. [Electric Arc](https://pf2.d20pfsrd.com/spell/electric-arc/)
+      3. [Light](https://pf2.d20pfsrd.com/spell/light/)
+      4. [Mage Hand](https://pf2.d20pfsrd.com/spell/mage-hand/)
+      5. [Shield](https://pf2.d20pfsrd.com/spell/shield/)
+      6. [Telekinetic Projectile](https://pf2.d20pfsrd.com/spell/telekinetic-projectile/)
       7. [Ghost Sound](https://pf2.d20pfsrd.com/spell/ghost-sound/)
-      8. Produce Flame
-      9. Read Aura
-      10. Prestidigitation
+      8. [Produce Flame](https://pf2.d20pfsrd.com/spell/produce-flame/)
+      9. [Read Aura](https://pf2.d20pfsrd.com/spell/read-aura/)
+      10. [Prestidigitation](https://pf2.d20pfsrd.com/spell/prestidigitation/)
     * 1st
       1. Charm
-      2. Color Spray
-      3. Magic Weapon
-      4. Grease
-      5. Magic Missile
-      6. Mage Armor
+      2. [Color Spray](https://pf2.d20pfsrd.com/spell/color-spray/)
+      3. [Magic Weapon](https://pf2.d20pfsrd.com/spell/magic-weapon/)
+      4. [Grease](https://pf2.d20pfsrd.com/spell/grease/)
+      5. [Magic Missile](https://pf2.d20pfsrd.com/spell/magic-missile/)
+      6. [Mage Armor](https://pf2.d20pfsrd.com/spell/mage-armor/)
 * John
   * Class: 
 * Justin
