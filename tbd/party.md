@@ -37,7 +37,7 @@
       4. Mage Hand
       5. Shield
       6. Telekinetic Projectile
-      7. Ghost Sound
+      7. [Ghost Sound](https://pf2.d20pfsrd.com/spell/ghost-sound/)
       8. Produce Flame
       9. Read Aura
       10. Prestidigitation
