@@ -15,6 +15,9 @@
     * INT: 18
     * WIS: 12
     * CHA: 12
+  * Skills
+    * Intimidation: Trained
+    * Lore (Dragon): Trained
   * Money
     * Gold: 9
     * Silver 48
