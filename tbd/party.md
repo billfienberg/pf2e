@@ -8,14 +8,24 @@
   * Class: Wizard
   * Background: Dragon Scholar
   * Level: 1
+  * Languages
+    * Dwarven
+    * Elven
+    * Gnomish
+    * Goblin
+    * Halfling
+    * Draconic
   * Ability Scores
-    * STR: 10
+    * STR: 8
     * DEX: 14
     * CON: 14
     * INT: 18
-    * WIS: 12
-    * CHA: 12
+    * WIS: 14
+    * CHA: 10
+  * Perception: Trained
   * Skills
+    * Arcana: Trained
+    * 
     * Intimidation: Trained
     * Lore (Dragon): Trained
   * Money
