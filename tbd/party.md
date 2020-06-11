@@ -4,6 +4,7 @@
   * Class: 
 * Bill
   * Name: Oslo
+  * Ancestry: Human
   * Class: Wizard
   * Background: Dragon Scholar
   * Level: 1
