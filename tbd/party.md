@@ -5,6 +5,7 @@
 * Bill
   * Name: Oslo
   * Class: Wizard
+  * Background: Dragon Scholar
   * Level: 1
   * Ability Scores
     * STR: 10
