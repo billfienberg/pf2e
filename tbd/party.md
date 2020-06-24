@@ -42,6 +42,9 @@
       8. [Produce Flame](https://pf2.d20pfsrd.com/spell/produce-flame/)
       9. [Read Aura](https://pf2.d20pfsrd.com/spell/read-aura/)
       10. [Prestidigitation](https://pf2.d20pfsrd.com/spell/prestidigitation/)
+      11. [Tanglefoot](https://pf2srd.com/spell/tanglefoot/)
+      12. [Ray of Frost](https://pf2.d20pfsrd.com/spell/ray-of-frost/)
+      13. [Daze](https://pf2.d20pfsrd.com/spell/daze/)
     * 1st
       1. [Charm](https://pf2srd.com/spell/charm/)
       2. [Color Spray](https://pf2.d20pfsrd.com/spell/color-spray/)
