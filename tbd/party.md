@@ -43,7 +43,7 @@
       9. [Read Aura](https://pf2.d20pfsrd.com/spell/read-aura/)
       10. [Prestidigitation](https://pf2.d20pfsrd.com/spell/prestidigitation/)
     * 1st
-      1. Charm
+      1. [Charm](https://pf2srd.com/spell/charm/)
       2. [Color Spray](https://pf2.d20pfsrd.com/spell/color-spray/)
       3. [Magic Weapon](https://pf2.d20pfsrd.com/spell/magic-weapon/)
       4. [Grease](https://pf2.d20pfsrd.com/spell/grease/)
