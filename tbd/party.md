@@ -16,7 +16,7 @@
     * Goblin
   * Ability Scores
     * STR: 8
-    * DEX: 14
+    * DEX: 12
     * CON: 14
     * INT: 18
     * WIS: 14
