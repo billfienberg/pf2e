@@ -14,6 +14,7 @@
     * Dwarven
     * Gnomish
     * Goblin
+    * Undercommon
   * Ability Scores
     * STR: 8
     * DEX: 12
