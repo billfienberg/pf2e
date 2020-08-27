@@ -3,7 +3,7 @@ Oslo
   * Ancestry: Human
   * Class: Wizard
   * Background: Dragon Scholar
-  * Level: 1
+  * Level: 3
   * Languages
     * Common
     * Draconic
@@ -20,7 +20,7 @@ Oslo
     * CHA: 10
   * Perception: Trained
   * Skills
-    * Arcana: Trained
+    * Arcana: Expert
     * Intimidation: Trained
     * Lore (Dragon): Trained
     * Athletics: Trained
