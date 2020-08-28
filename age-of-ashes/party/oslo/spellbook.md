@@ -24,3 +24,8 @@
 1. [Grease](https://pf2.d20pfsrd.com/spell/grease/)
 1. [Magic Missile](https://pf2.d20pfsrd.com/spell/magic-missile/)
 1. [Mage Armor](https://pf2.d20pfsrd.com/spell/mage-armor/)
+
+## 2nd
+
+1. [Enlarge](https://pf2.d20pfsrd.com/spell/enlarge/)
+1. [Expeditious Excavation](https://pf2.d20pfsrd.com/spell/expeditious-excavation)
