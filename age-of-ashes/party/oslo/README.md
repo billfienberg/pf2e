@@ -43,6 +43,7 @@ Oslo
     * Bonus Class Feat from Natural Ambition: Eschew Materials
     * Level 2 Class Feat: Cantrip Expansion
     * Level 2 Skill Feat: Trick Magic Item
+    * Level 3 General Feat: Recognize Spell
   * Money
     * Gold: 9
     * Silver 48
