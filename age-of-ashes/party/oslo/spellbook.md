@@ -29,3 +29,5 @@
 
 1. [Enlarge](https://pf2.d20pfsrd.com/spell/enlarge/)
 1. [Expeditious Excavation](https://pf2.d20pfsrd.com/spell/expeditious-excavation)
+1. [Dispell Magic](https://pf2.d20pfsrd.com/spell/dispel-magic/)
+1. [Darkness](https://pf2.d20pfsrd.com/spell/darkness/)
