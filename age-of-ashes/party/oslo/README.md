@@ -25,6 +25,7 @@ Oslo
     * Lore (Dragon): Trained
     * Athletics: Trained
     * Crafting: Trained
+    * Diplomacy: Trained
     * Nature: Trained
     * Occultism: Trained
     * Religion: Trained
@@ -44,6 +45,8 @@ Oslo
     * Level 2 Class Feat: Cantrip Expansion
     * Level 2 Skill Feat: Trick Magic Item
     * Level 3 General Feat: Recognize Spell
+    * Level 4 Skill Feat: Skill Training (Diplomacy)
+    * Level 4 Class Feat: [Silent Spell](https://2e.aonprd.com/Feats.aspx?ID=644)
   * Money
     * Gold: 9
     * Silver 48
