@@ -26,6 +26,7 @@
 1. [Grease](https://pf2.d20pfsrd.com/spell/grease/)
 1. [Magic Missile](https://pf2.d20pfsrd.com/spell/magic-missile/)
 1. [Mage Armor](https://pf2.d20pfsrd.com/spell/mage-armor/)
+1. [Create Water](https://pf2.d20pfsrd.com/spell/create-water/)
 
 ### 2nd
 
