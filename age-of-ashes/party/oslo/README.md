@@ -13,10 +13,10 @@ Oslo
     * Undercommon
   * Ability Scores
     * STR: 8
-    * DEX: 12
-    * CON: 14
-    * INT: 18
-    * WIS: 14
+    * DEX: 14
+    * CON: 16
+    * INT: 19
+    * WIS: 16
     * CHA: 10
   * Perception: Trained
   * Skills
@@ -30,6 +30,7 @@ Oslo
     * Occultism: Trained
     * Religion: Trained
     * Society: Trained
+    * Stealth: Trained
   * Arcane Thesis: Improved Familiar Attunement (grants free Familiar feat)
   * Heritage: Versatile Heritage (grants free general feat - Uncanny Acumen)
   * Arcane School: Universalist (grants free class feat)
@@ -47,6 +48,8 @@ Oslo
     * Level 3 General Feat: Recognize Spell
     * Level 4 Skill Feat: Skill Training (Diplomacy)
     * Level 4 Class Feat: [Conceal Spell](https://2e.aonprd.com/Feats.aspx?ID=640)
+    * Level 5 Ancestry Feat: [Clever Improviser](http://2e.aonprd.com/Feats.aspx?ID=74)
+    * General Feat: [Untrained Improvisation](http://2e.aonprd.com/Feats.aspx?ID=861) (from Clever Improviser)
   * Money
     * Gold: 9
     * Silver 48
