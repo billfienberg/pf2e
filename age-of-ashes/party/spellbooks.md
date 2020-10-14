@@ -35,6 +35,11 @@
 1. [Dispell Magic](https://pf2.d20pfsrd.com/spell/dispel-magic/)
 1. [Darkness](https://pf2.d20pfsrd.com/spell/darkness/)
 
+### 3rd
+
+1. [Agonizing Despair](https://pf2.d20pfsrd.com/spell/agonizing-despair/)
+1. [Familiar's Face](https://pf2.d20pfsrd.com/spell/familiars-face/)
+
 ## Fladnag
 
 ### Cantrips
@@ -48,3 +53,8 @@
 1. [Mirror Image](https://pf2.d20pfsrd.com/spell/mirror-image/)
 1. [Sudden Bolt](https://pf2.d20pfsrd.com/spell/sudden-bolt/)
 1. [Acid Arrow](https://pf2.d20pfsrd.com/spell/acid-arrow/)
+
+### 3rd
+
+1. [Fireball](https://pf2.d20pfsrd.com/spell/fireball/)
+1. [Lightning Bolt](https://pf2.d20pfsrd.com/spell/lightning-bolt/)
