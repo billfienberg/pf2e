@@ -32,3 +32,8 @@
 1. [Expeditious Excavation](https://pf2.d20pfsrd.com/spell/expeditious-excavation)
 1. [Dispel Magic](https://pf2.d20pfsrd.com/spell/dispel-magic/)
 1. [Darkness](https://pf2.d20pfsrd.com/spell/darkness/)
+
+## 3rd
+
+1. [Agonizing Despair](https://pf2.d20pfsrd.com/spell/agonizing-despair/)
+1. [Familiar's Face](https://pf2.d20pfsrd.com/spell/familiars-face/)
