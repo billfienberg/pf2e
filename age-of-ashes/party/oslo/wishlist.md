@@ -11,6 +11,15 @@
 - Haste
 - Slow
 
+## Feats
+
+### 4th
+
+- [Enhanced Familiar](https://2e.aonprd.com/Feats.aspx?ID=318)
+- [Silent Spell](https://2e.aonprd.com/Feats.aspx?ID=644)
+
+### 6th
+
 ## Items
 
 - [Hand of the Mage (30gp)](https://2e.aonprd.com/Equipment.aspx?ID=440)
