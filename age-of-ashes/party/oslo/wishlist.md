@@ -2,7 +2,11 @@
 
 ### 1st
 
+- [Command](https://2e.aonprd.com/Spells.aspx?ID=45)
+
 ### 2nd
+
+- [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341)
 
 ### 3rd
 
