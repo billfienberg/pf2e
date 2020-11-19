@@ -6,6 +6,7 @@
 
 ### 2nd
 
+- [Hideous Laughter](https://pf2.d20pfsrd.com/spell/hideous-laughter/)
 - [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341)
 
 ### 3rd
