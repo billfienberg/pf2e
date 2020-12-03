@@ -39,6 +39,8 @@
 
 1. [Agonizing Despair](https://pf2.d20pfsrd.com/spell/agonizing-despair/)
 1. [Familiar's Face](https://pf2.d20pfsrd.com/spell/familiars-face/)
+1. [Invisibility Sphere](https://pf2.d20pfsrd.com/spell/invisibility-sphere/)
+1. [Haste](https://pf2.d20pfsrd.com/spell/haste/)
 
 ## Fladnag
 
@@ -58,3 +60,5 @@
 
 1. [Fireball](https://pf2.d20pfsrd.com/spell/fireball/)
 1. [Lightning Bolt](https://pf2.d20pfsrd.com/spell/lightning-bolt/)
+1. [Levitate](https://pf2.d20pfsrd.com/spell/levitate/)
+1. [Wall of Wind](https://pf2srd.com/spell/wall-of-wind/)
