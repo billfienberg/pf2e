@@ -13,8 +13,8 @@
 
 - [Magical Fetters](https://2e.aonprd.com/Spells.aspx?ID=821)
 - [Safe Passage](https://pf2.d20pfsrd.com/spell/safe-passage/)
-- Haste
-- Slow
+- [Slow](https://pf2srd.com/spell/slow/)
+- [Earthbind](https://pf2.d20pfsrd.com/spell/earthbind/)
 
 ## Feats
 
