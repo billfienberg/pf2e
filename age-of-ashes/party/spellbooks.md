@@ -42,6 +42,11 @@
 1. [Invisibility Sphere](https://pf2.d20pfsrd.com/spell/invisibility-sphere/)
 1. [Haste](https://pf2.d20pfsrd.com/spell/haste/)
 
+### 4th
+
+1. Freedom of Movement
+1. Fly
+
 ## Fladnag
 
 ### Cantrips
