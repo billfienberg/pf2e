@@ -37,3 +37,8 @@
 
 1. [Agonizing Despair](https://pf2.d20pfsrd.com/spell/agonizing-despair/)
 1. [Familiar's Face](https://pf2.d20pfsrd.com/spell/familiars-face/)
+
+## 4th
+
+1. Fly
+1. Freedom of Movement
