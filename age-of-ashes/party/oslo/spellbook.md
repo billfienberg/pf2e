@@ -37,8 +37,12 @@
 
 1. [Agonizing Despair](https://pf2.d20pfsrd.com/spell/agonizing-despair/)
 1. [Familiar's Face](https://pf2.d20pfsrd.com/spell/familiars-face/)
+1. [Invisibility Sphere](https://pf2.d20pfsrd.com/spell/invisibility-sphere/)
+1. [Haste](https://pf2.d20pfsrd.com/spell/haste/)
 
 ## 4th
 
-1. Fly
-1. Freedom of Movement
+1. [Fly](https://pf2.d20pfsrd.com/spell/fly/)
+1. [Freedom of Movement](https://pf2.d20pfsrd.com/spell/freedom-of-movement/)
+1. [Cohttps://pf2.d20pfsrd.com/spell/confusion/sion](url)
+1. [Stoneskin](https://pf2.d20pfsrd.com/spell/stoneskin/)
