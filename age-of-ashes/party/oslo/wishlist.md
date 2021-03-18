@@ -3,27 +3,55 @@
 ### 1st
 
 - [Command](https://2e.aonprd.com/Spells.aspx?ID=45)
+- [Fear](https://pf2.d20pfsrd.com/spell/fear/)
+- [Gust of Wind](https://pf2.d20pfsrd.com/spell/gust-of-wind/)
+- [Illusory Object](https://pf2.d20pfsrd.com/spell/illusory-object)
+- [Pummeling Rubble](https://2e.aonprd.com/Spells.aspx?ID=708)
+- [Summon Animal](https://2e.aonprd.com/Spells.aspx?ID=316)
+- [True Strike](https://pf2.d20pfsrd.com/spell/true-strike/)
 
 ### 2nd
 
 - [Hideous Laughter](https://pf2.d20pfsrd.com/spell/hideous-laughter/)
 - [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341)
+- [Blur](https://pf2.d20pfsrd.com/spell/blur/)
+- [Darkvision](https://pf2.d20pfsrd.com/spell/darkvision/)
+- [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
+- [Illusory Creature](https://2e.aonprd.com/Spells.aspx?ID=158)
+- [Invisibility](https://pf2.d20pfsrd.com/spell/invisibility/)
+- [Knock](https://pf2.d20pfsrd.com/spell/knock/)
+- [Resist Energy](https://pf2.d20pfsrd.com/spell/resist-energy/)
+- [Rime Slick](https://pf2.d20pfsrd.com/spell/rime-slick/)
+- [Sea Surge](https://pf2.d20pfsrd.com/spell/sea-surge/)
+- [Spider Climb](https://pf2.d20pfsrd.com/spell/spider-climb/)
+- [Summon Elemental](https://pf2.d20pfsrd.com/spell/summon-elemental/)
+- [Vomit Swarm](https://pf2.d20pfsrd.com/spell/vomit-swarm/)
 
 ### 3rd
 
 - [Magical Fetters](https://2e.aonprd.com/Spells.aspx?ID=821)
 - [Safe Passage](https://pf2.d20pfsrd.com/spell/safe-passage/)
-- [Slow](https://pf2srd.com/spell/slow/)
+- [Slow](https://pf2.d20pfsrd.com/spell/slow/)
 - [Earthbind](https://pf2.d20pfsrd.com/spell/earthbind/)
+- [Curse of Lost Time](http://2e.aonprd.com/Spells.aspx?ID=683)
+- [Glyph of Warding](https://pf2.d20pfsrd.com/spell/glyph-of-warding/)
+- [Hypnotic Pattern](https://pf2.d20pfsrd.com/spell/hypnotic-pattern)
+- [Shrink Item](https://pf2.d20pfsrd.com/spell/shrink-item/)
 
-## Feats
 
 ### 4th
 
+- [Dimension Door](https://pf2.d20pfsrd.com/spell/dimension-door/)
+- [Dimensional Anchor](https://pf2.d20pfsrd.com/spell/dimensional-anchor/)
+- [Enervation](https://pf2.d20pfsrd.com/spell/enervation/)
+- [Phantasmal Killer](https://pf2.d20pfsrd.com/spell/phantasmal-killer/)
+- [Shape Stone](https://pf2.d20pfsrd.com/spell/shape-stone/)
+
+## Feats
+
 - [Enhanced Familiar](https://2e.aonprd.com/Feats.aspx?ID=318)
 - [Silent Spell](https://2e.aonprd.com/Feats.aspx?ID=644)
-
-### 6th
+- [Quick Recognition](https://pf2.d20pfsrd.com/feat/quick-recognition/)
 
 ## Items
 
