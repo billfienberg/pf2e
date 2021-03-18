@@ -47,6 +47,12 @@
 - [Phantasmal Killer](https://pf2.d20pfsrd.com/spell/phantasmal-killer/)
 - [Shape Stone](https://pf2.d20pfsrd.com/spell/shape-stone/)
 
+### 5th
+
+### 6th
+
+- [Stone To Flesh](https://pf2.d20pfsrd.com/spell/stone-to-flesh/)
+
 ## Feats
 
 - [Enhanced Familiar](https://2e.aonprd.com/Feats.aspx?ID=318)
