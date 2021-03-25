@@ -7,7 +7,6 @@
 - [Gust of Wind](https://pf2.d20pfsrd.com/spell/gust-of-wind/)
 - [Illusory Object](https://pf2.d20pfsrd.com/spell/illusory-object)
 - [Pummeling Rubble](https://2e.aonprd.com/Spells.aspx?ID=708)
-- [Summon Animal](https://2e.aonprd.com/Spells.aspx?ID=316)
 - [True Strike](https://pf2.d20pfsrd.com/spell/true-strike/)
 
 ### 2nd
@@ -24,13 +23,11 @@
 - [Rime Slick](https://pf2.d20pfsrd.com/spell/rime-slick/)
 - [Sea Surge](https://pf2.d20pfsrd.com/spell/sea-surge/)
 - [Spider Climb](https://pf2.d20pfsrd.com/spell/spider-climb/)
-- [Summon Elemental](https://pf2.d20pfsrd.com/spell/summon-elemental/)
 - [Vomit Swarm](https://pf2.d20pfsrd.com/spell/vomit-swarm/)
 
 ### 3rd
 
 - [Magical Fetters](https://2e.aonprd.com/Spells.aspx?ID=821)
-- [Safe Passage](https://pf2.d20pfsrd.com/spell/safe-passage/)
 - [Slow](https://pf2.d20pfsrd.com/spell/slow/)
 - [Earthbind](https://pf2.d20pfsrd.com/spell/earthbind/)
 - [Curse of Lost Time](http://2e.aonprd.com/Spells.aspx?ID=683)
@@ -38,16 +35,16 @@
 - [Hypnotic Pattern](https://pf2.d20pfsrd.com/spell/hypnotic-pattern)
 - [Shrink Item](https://pf2.d20pfsrd.com/spell/shrink-item/)
 
-
 ### 4th
 
-- [Dimension Door](https://pf2.d20pfsrd.com/spell/dimension-door/)
 - [Dimensional Anchor](https://pf2.d20pfsrd.com/spell/dimensional-anchor/)
 - [Enervation](https://pf2.d20pfsrd.com/spell/enervation/)
 - [Phantasmal Killer](https://pf2.d20pfsrd.com/spell/phantasmal-killer/)
 - [Shape Stone](https://pf2.d20pfsrd.com/spell/shape-stone/)
 
 ### 5th
+
+- [Summon Dragon](https://pf2.d20pfsrd.com/spell/summon-dragon/)
 
 ### 6th
 
