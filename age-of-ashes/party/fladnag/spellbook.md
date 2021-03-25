@@ -15,3 +15,7 @@
 1. [Mirror Image](https://pf2.d20pfsrd.com/spell/mirror-image/)
 1. [Sudden Bolt](https://pf2.d20pfsrd.com/spell/sudden-bolt/)
 1. [Acid Arrow](https://pf2.d20pfsrd.com/spell/acid-arrow/)
+
+### 3rd 
+
+1. [Safe Passage]()
