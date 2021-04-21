@@ -44,5 +44,5 @@
 
 1. [Fly](https://pf2.d20pfsrd.com/spell/fly/)
 1. [Freedom of Movement](https://pf2.d20pfsrd.com/spell/freedom-of-movement/)
-1. [Cohttps://pf2.d20pfsrd.com/spell/confusion/sion](url)
+1. [Confusion](https://pf2.d20pfsrd.com/spell/confusion/)
 1. [Stoneskin](https://pf2.d20pfsrd.com/spell/stoneskin/)
