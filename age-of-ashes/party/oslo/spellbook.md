@@ -25,20 +25,25 @@
 1. [Magic Missile](https://pf2.d20pfsrd.com/spell/magic-missile/)
 1. [Mage Armor](https://pf2.d20pfsrd.com/spell/mage-armor/)
 1. [Create Water](https://pf2.d20pfsrd.com/spell/create-water/)
+1. [Summon Animal](https://2e.aonprd.com/Spells.aspx?ID=316)
+1. [Summon Construct](https://2e.aonprd.com/Spells.aspx?ID=318)
 
 ## 2nd
 
+1. [Darkness](https://pf2.d20pfsrd.com/spell/darkness/)
+1. [Dispel Magic](https://pf2.d20pfsrd.com/spell/dispel-magic/)
 1. [Enlarge](https://pf2.d20pfsrd.com/spell/enlarge/)
 1. [Expeditious Excavation](https://pf2.d20pfsrd.com/spell/expeditious-excavation)
-1. [Dispel Magic](https://pf2.d20pfsrd.com/spell/dispel-magic/)
-1. [Darkness](https://pf2.d20pfsrd.com/spell/darkness/)
+1. [Mirror Image](https://pf2.d20pfsrd.com/spell/mirror-image/)
+1. [Summon Elemental](https://2e.aonprd.com/Spells.aspx?ID=320)
 
 ## 3rd
 
 1. [Agonizing Despair](https://pf2.d20pfsrd.com/spell/agonizing-despair/)
 1. [Familiar's Face](https://pf2.d20pfsrd.com/spell/familiars-face/)
-1. [Invisibility Sphere](https://pf2.d20pfsrd.com/spell/invisibility-sphere/)
 1. [Haste](https://pf2.d20pfsrd.com/spell/haste/)
+1. [Invisibility Sphere](https://pf2.d20pfsrd.com/spell/invisibility-sphere/)
+1. [Levitate](https://pf2.d20pfsrd.com/spell/levitate/)
 
 ## 4th
 
