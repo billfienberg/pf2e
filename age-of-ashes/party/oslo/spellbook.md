@@ -15,6 +15,7 @@
 1. [Tanglefoot](https://pf2srd.com/spell/tanglefoot/)
 1. [Ray of Frost](https://pf2.d20pfsrd.com/spell/ray-of-frost/)
 1. [Daze](https://pf2.d20pfsrd.com/spell/daze/)
+1. [Acid Splash](https://pf2.d20pfsrd.com/spell/acid-splash/)
 
 ## 1st
 
