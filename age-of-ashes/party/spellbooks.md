@@ -67,3 +67,12 @@
 1. [Lightning Bolt](https://pf2.d20pfsrd.com/spell/lightning-bolt/)
 1. [Levitate](https://pf2.d20pfsrd.com/spell/levitate/)
 1. [Wall of Wind](https://pf2srd.com/spell/wall-of-wind/)
+
+### 4th
+
+### 5th
+
+- [Sehttps://pf2.d20pfsrd.com/spell/sending/ng](url)
+- [Summon Dragon](https://pf2.d20pfsrd.com/spell/summon-dragon/)
+- [Cone of Cold](https://pf2.d20pfsrd.com/spell/cone-of-cold/)
+- [Black Tentacles](https://pf2.d20pfsrd.com/spell/black-tentacles/)
