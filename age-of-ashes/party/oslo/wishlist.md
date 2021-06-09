@@ -2,6 +2,8 @@
 
 ### 1st
 
+- Air Bubble
+- Alarm
 - [Command](https://2e.aonprd.com/Spells.aspx?ID=45)
 - [Fear](https://pf2.d20pfsrd.com/spell/fear/)
 - [Gust of Wind](https://pf2.d20pfsrd.com/spell/gust-of-wind/)
@@ -11,15 +13,18 @@
 
 ### 2nd
 
-- [Hideous Laughter](https://pf2.d20pfsrd.com/spell/hideous-laughter/)
-- [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341)
+
 - [Blur](https://pf2.d20pfsrd.com/spell/blur/)
-- [Darkvision](https://pf2.d20pfsrd.com/spell/darkvision/)
-- [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
-- [Illusory Creature](https://2e.aonprd.com/Spells.aspx?ID=158)
-- [Invisibility](https://pf2.d20pfsrd.com/spell/invisibility/)
 - [Knock](https://pf2.d20pfsrd.com/spell/knock/)
+- [Hideous Laughter](https://pf2.d20pfsrd.com/spell/hideous-laughter/)
+- [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
+- [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341)
+- [Invisibility](https://pf2.d20pfsrd.com/spell/invisibility/)
 - [Resist Energy](https://pf2.d20pfsrd.com/spell/resist-energy/)
+- [Darkvision](https://pf2.d20pfsrd.com/spell/darkvision/)
+- [See Invisibilty](https://pf2.d20pfsrd.com/spell/see-invisibility/)
+
+- [Illusory Creature](https://2e.aonprd.com/Spells.aspx?ID=158)
 - [Rime Slick](https://pf2.d20pfsrd.com/spell/rime-slick/)
 - [Sea Surge](https://pf2.d20pfsrd.com/spell/sea-surge/)
 - [Spider Climb](https://pf2.d20pfsrd.com/spell/spider-climb/)
@@ -27,13 +32,17 @@
 
 ### 3rd
 
-- [Magical Fetters](https://2e.aonprd.com/Spells.aspx?ID=821)
+- [Shrink Item](https://pf2.d20pfsrd.com/spell/shrink-item/)
+- Paralyze
+- Blindness
 - [Slow](https://pf2.d20pfsrd.com/spell/slow/)
+- Locate
 - [Earthbind](https://pf2.d20pfsrd.com/spell/earthbind/)
+- [Magical Fetters](https://2e.aonprd.com/Spells.aspx?ID=821)
+- Mind Reading
 - [Curse of Lost Time](http://2e.aonprd.com/Spells.aspx?ID=683)
 - [Glyph of Warding](https://pf2.d20pfsrd.com/spell/glyph-of-warding/)
 - [Hypnotic Pattern](https://pf2.d20pfsrd.com/spell/hypnotic-pattern)
-- [Shrink Item](https://pf2.d20pfsrd.com/spell/shrink-item/)
 
 ### 4th
 
@@ -44,7 +53,13 @@
 
 ### 5th
 
-- [Summon Dragon](https://pf2.d20pfsrd.com/spell/summon-dragon/)
+- Chromatic Wall
+- [Crushing Despair](https://pf2.d20pfsrd.com/spell/crushing-despair/)
+- Impaling Spike
+- Tongues
+- [Transmute Rock and Mud](https://pf2.d20pfsrd.com/spell/transmute-rock-and-mud/)
+- Wall of Ice
+- Wall of Stone
 
 ### 6th
 
