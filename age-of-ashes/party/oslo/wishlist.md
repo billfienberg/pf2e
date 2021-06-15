@@ -9,7 +9,6 @@
 - [Gust of Wind](https://pf2.d20pfsrd.com/spell/gust-of-wind/)
 - [Illusory Object](https://pf2.d20pfsrd.com/spell/illusory-object)
 - [Pummeling Rubble](https://2e.aonprd.com/Spells.aspx?ID=708)
-- [True Strike](https://pf2.d20pfsrd.com/spell/true-strike/)
 
 ### 2nd
 
@@ -19,10 +18,8 @@
 - [Hideous Laughter](https://pf2.d20pfsrd.com/spell/hideous-laughter/)
 - [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
 - [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341)
-- [Invisibility](https://pf2.d20pfsrd.com/spell/invisibility/)
 - [Resist Energy](https://pf2.d20pfsrd.com/spell/resist-energy/)
 - [Darkvision](https://pf2.d20pfsrd.com/spell/darkvision/)
-- [See Invisibilty](https://pf2.d20pfsrd.com/spell/see-invisibility/)
 
 - [Illusory Creature](https://2e.aonprd.com/Spells.aspx?ID=158)
 - [Rime Slick](https://pf2.d20pfsrd.com/spell/rime-slick/)
@@ -32,12 +29,9 @@
 
 ### 3rd
 
-- [Shrink Item](https://pf2.d20pfsrd.com/spell/shrink-item/)
 - Paralyze
 - Blindness
-- [Slow](https://pf2.d20pfsrd.com/spell/slow/)
 - Locate
-- [Earthbind](https://pf2.d20pfsrd.com/spell/earthbind/)
 - [Magical Fetters](https://2e.aonprd.com/Spells.aspx?ID=821)
 - Mind Reading
 - [Curse of Lost Time](http://2e.aonprd.com/Spells.aspx?ID=683)
