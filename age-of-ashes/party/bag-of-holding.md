@@ -1,1 +1,2 @@
-
+- [Hand of the Mage](https://2e.aonprd.com/Equipment.aspx?ID=440)
+- 
