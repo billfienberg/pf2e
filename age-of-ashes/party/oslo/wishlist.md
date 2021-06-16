@@ -67,11 +67,7 @@
 
 ## Items
 
-- [Hand of the Mage (30gp)](https://2e.aonprd.com/Equipment.aspx?ID=440)
-- [Ring of Minor Arcana (160gp)](https://2e.aonprd.com/Equipment.aspx?ID=478)
 - [Skeleton Key (125gp)](https://2e.aonprd.com/Equipment.aspx?ID=266)
 - [Staff of Divination (230gp)](https://2e.aonprd.com/Equipment.aspx?ID=353)
-- [Cloak of Elvenkind (360gp)](https://2e.aonprd.com/Equipment.aspx?ID=424)
-- [Boots of Elvenkind (145gp)](https://2e.aonprd.com/Equipment.aspx?ID=413)
 - [Ring of Wizardry (360gp)](https://2e.aonprd.com/Equipment.aspx?ID=462)
 - [Hat of the Magi (50gp)](https://2e.aonprd.com/Equipment.aspx?ID=443)
