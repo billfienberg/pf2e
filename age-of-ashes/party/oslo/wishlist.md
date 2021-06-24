@@ -4,7 +4,6 @@
 
 - Air Bubble
 - Alarm
-- [Command](https://2e.aonprd.com/Spells.aspx?ID=45)
 - [Fear](https://pf2.d20pfsrd.com/spell/fear/)
 - [Gust of Wind](https://pf2.d20pfsrd.com/spell/gust-of-wind/)
 - [Illusory Object](https://pf2.d20pfsrd.com/spell/illusory-object)
@@ -35,7 +34,6 @@
 - Mind Reading
 - [Curse of Lost Time](http://2e.aonprd.com/Spells.aspx?ID=683)
 - [Glyph of Warding](https://pf2.d20pfsrd.com/spell/glyph-of-warding/)
-- [Hypnotic Pattern](https://pf2.d20pfsrd.com/spell/hypnotic-pattern)
 
 ### 4th
 
@@ -47,7 +45,6 @@
 ### 5th
 
 - Chromatic Wall
-- [Crushing Despair](https://pf2.d20pfsrd.com/spell/crushing-despair/)
 - Impaling Spike
 - Tongues
 - [Transmute Rock and Mud](https://pf2.d20pfsrd.com/spell/transmute-rock-and-mud/)
