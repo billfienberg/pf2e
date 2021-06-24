@@ -44,8 +44,8 @@
 
 ### 4th
 
-1. Freedom of Movement
-1. Fly
+1. [Freedom of Movement](https://pf2.d20pfsrd.com/spell/freedom-of-movement/)
+1. [Fly](https://pf2.d20pfsrd.com/spell/fly/)
 
 ## Fladnag
 
@@ -72,7 +72,45 @@
 
 ### 5th
 
-- [Sehttps://pf2.d20pfsrd.com/spell/sending/ng](url)
+- [Sending](https://pf2.d20pfsrd.com/spell/sending/)
 - [Summon Dragon](https://pf2.d20pfsrd.com/spell/summon-dragon/)
 - [Cone of Cold](https://pf2.d20pfsrd.com/spell/cone-of-cold/)
 - [Black Tentacles](https://pf2.d20pfsrd.com/spell/black-tentacles/)
+
+## Hueberck Throp
+
+### Cantrips
+
+- [Detect Magic](https://pf2.d20pfsrd.com/spell/detect-magic/)
+- [Message](https://pf2.d20pfsrd.com/spell/message/)
+- [Prestidigitation](https://pf2.d20pfsrd.com/spell/prestidigitation/)
+- [Read Aura](https://pf2.d20pfsrd.com/spell/read-aura/)
+- [Shield](https://pf2.d20pfsrd.com/spell/shield/)
+
+### 1st
+
+- [Charm](https://pf2srd.com/spell/charm/)
+- [Command](https://pf2.d20pfsrd.com/spell/command/)
+- [Fear](https://pf2.d20pfsrd.com/spell/fear/)
+- [Ray of Enfeeblement](https://pf2.d20pfsrd.com/spell/ray-of-enfeeblement/)
+
+### 2nd
+
+- [Invisibility](https://pf2.d20pfsrd.com/spell/invisibility/)
+- [Mirror Image](https://pf2.d20pfsrd.com/spell/mirror-image/)
+- [Paranoia](https://pf2.d20pfsrd.com/spell/paranoia/)
+
+### 3rd
+
+- [Dream Message](https://pf2.d20pfsrd.com/spell/dream-message/)
+- [Enthrall](https://pf2.d20pfsrd.com/spell/enthrall/)
+- [Hypnotic Pattern](https://pf2.d20pfsrd.com/spell/hypnotic-pattern/)
+
+### 4th
+
+- [Discern Lies](https://pf2.d20pfsrd.com/spell/discern-lies/)
+- [Fly](https://pf2.d20pfsrd.com/spell/fly/)
+
+### 5th
+
+- [Crushing Despair](https://pf2.d20pfsrd.com/spell/crushing-despair/)
