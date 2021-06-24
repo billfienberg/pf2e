@@ -20,7 +20,6 @@
 - [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341)
 - [Resist Energy](https://pf2.d20pfsrd.com/spell/resist-energy/)
 - [Darkvision](https://pf2.d20pfsrd.com/spell/darkvision/)
-
 - [Illusory Creature](https://2e.aonprd.com/Spells.aspx?ID=158)
 - [Rime Slick](https://pf2.d20pfsrd.com/spell/rime-slick/)
 - [Sea Surge](https://pf2.d20pfsrd.com/spell/sea-surge/)
