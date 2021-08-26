@@ -28,6 +28,7 @@
 1. [Create Water](https://pf2.d20pfsrd.com/spell/create-water/)
 1. [Summon Animal](https://2e.aonprd.com/Spells.aspx?ID=316)
 1. [Summon Construct](https://2e.aonprd.com/Spells.aspx?ID=318)
+1. [Sleep](https://pf2.d20pfsrd.com/spell/sleep/)
 
 ## 2nd
 
