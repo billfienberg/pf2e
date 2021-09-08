@@ -1,5 +1,11 @@
 ## Spells
 
+### Cantrips
+
+- [Gale Blast](https://2e.aonprd.com/Spells.aspx?ID=917)
+- [Spout](https://2e.aonprd.com/Spells.aspx?ID=1002)
+- [Scatter Scree](https://2e.aonprd.com/Spells.aspx?ID=990)
+
 ### 1st
 
 - Air Bubble
@@ -70,3 +76,12 @@
 - [Wand of Manifold Missiles](https://2e.aonprd.com/Equipment.aspx?ID=370)
 - [Serene Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=100)
 - [Bravo's Brew](https://2e.aonprd.com/Equipment.aspx?ID=84)
+- [Dimensional Knot (60gp)](https://2e.aonprd.com/Equipment.aspx?ID=1004)
+- [Endless Grimoire (230/900gp)](https://2e.aonprd.com/Equipment.aspx?ID=992)
+- [Familiar Tattoo](https://2e.aonprd.com/Equipment.aspx?ID=998)
+- [Flask of Fellowship (25gp)](https://2e.aonprd.com/Equipment.aspx?ID=1056)
+- [Glasses of Sociability (60gp)](https://2e.aonprd.com/Equipment.aspx?ID=1057)
+- [Jar of Shifting Sands (320gp)](https://2e.aonprd.com/Equipment.aspx?ID=1064)
+- [Restful Tent (320gp)](https://2e.aonprd.com/Equipment.aspx?ID=1071)
+- [Shadow Signet (1,000gp)](https://2e.aonprd.com/Equipment.aspx?ID=1073)
+- [Specialist's Ring (1,000gp)](https://2e.aonprd.com/Equipment.aspx?ID=1077)
