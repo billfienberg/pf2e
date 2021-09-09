@@ -1,4 +1,6 @@
 - [Hand of the Mage](https://2e.aonprd.com/Equipment.aspx?ID=440)
 - Magical flail
 - Manacles with keys
-- 
+- 4 mithril chunks
+- 5 silver ingots
+- 540gp of cutlery, decoations, and other valuables
