@@ -48,6 +48,13 @@
 1. [Freedom of Movement](https://pf2.d20pfsrd.com/spell/freedom-of-movement/)
 1. [Fly](https://pf2.d20pfsrd.com/spell/fly/)
 
+### 5th
+
+1. Sending
+2. Summon Dragon
+3. Passwall
+4. [Cloak of Colors](https://2e.aonprd.com/Spells.aspx?ID=41)
+
 ## Fladnag
 
 ### Cantrips
@@ -77,6 +84,7 @@
 - [Summon Dragon](https://pf2.d20pfsrd.com/spell/summon-dragon/)
 - [Cone of Cold](https://pf2.d20pfsrd.com/spell/cone-of-cold/)
 - [Black Tentacles](https://pf2.d20pfsrd.com/spell/black-tentacles/)
+- [Wall of Ice](https://pf2.d20pfsrd.com/spell/wall-of-ice)
 
 ## Hueberck Throp
 
