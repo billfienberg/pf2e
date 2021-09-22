@@ -22,3 +22,8 @@
 - +1 rapiers (3x)
 - Average manacles and keys (3x)
 - Set of thieves tools (3x)
+
+#### Rollice's Gear
+
+- Adamntine battle axe
+- +1 resilient breast plate
