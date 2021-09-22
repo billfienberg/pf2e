@@ -115,3 +115,6 @@
 ### 5th
 
 - [Crushing Despair](https://pf2.d20pfsrd.com/spell/crushing-despair/)
+- [Cone of Cold](https://pf2.d20pfsrd.com/spell/cone-of-cold/)
+- [Geyser](https://2e.aonprd.com/Spells.aspx?ID=918)
+- [Impaling Spike](https://pf2.d20pfsrd.com/spell/impaling-spike)
