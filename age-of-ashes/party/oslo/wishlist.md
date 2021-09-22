@@ -51,11 +51,12 @@
 ### 5th
 
 - Chromatic Wall
-- Impaling Spike
 - Tongues
 - [Transmute Rock and Mud](https://pf2.d20pfsrd.com/spell/transmute-rock-and-mud/)
-- Wall of Ice
-- Wall of Stone
+- [Wall of Stone](https://pf2.d20pfsrd.com/spell/wall-of-stone/)
+- [Mirror Malefactors](https://2e.aonprd.com/Spells.aspx?ID=950)
+- [Blazing Fissure](https://2e.aonprd.com/Spells.aspx?ID=870)
+- [Acid Storm](https://2e.aonprd.com/Spells.aspx?ID=564)
 
 ### 6th
 
@@ -63,7 +64,6 @@
 
 ## Feats
 
-- [Enhanced Familiar](https://2e.aonprd.com/Feats.aspx?ID=318)
 - [Silent Spell](https://2e.aonprd.com/Feats.aspx?ID=644)
 - [Quick Recognition](https://pf2.d20pfsrd.com/feat/quick-recognition/)
 
