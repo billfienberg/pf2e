@@ -53,3 +53,11 @@
 1. [Freedom of Movement](https://pf2.d20pfsrd.com/spell/freedom-of-movement/)
 1. [Confusion](https://pf2.d20pfsrd.com/spell/confusion/)
 1. [Stoneskin](https://pf2.d20pfsrd.com/spell/stoneskin/)
+
+## 5th
+
+1. Summon Dragon
+2. Crushing Despair
+3. Black Tentacles
+4. Sending
+5. Cone of Cold
