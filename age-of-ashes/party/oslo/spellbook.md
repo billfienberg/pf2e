@@ -4,6 +4,7 @@
 
 1. [Detect Magic](https://pf2.d20pfsrd.com/spell/detect-magic/)
 1. [Electric Arc](https://pf2.d20pfsrd.com/spell/electric-arc/)
+1. [Gale Blast](https://2e.aonprd.com/Spells.aspx?ID=917)
 1. [Light](https://pf2.d20pfsrd.com/spell/light/)
 1. [Mage Hand](https://pf2.d20pfsrd.com/spell/mage-hand/)
 1. [Shield](https://pf2.d20pfsrd.com/spell/shield/)
@@ -12,6 +13,7 @@
 1. [Produce Flame](https://pf2.d20pfsrd.com/spell/produce-flame/)
 1. [Read Aura](https://pf2.d20pfsrd.com/spell/read-aura/)
 1. [Prestidigitation](https://pf2.d20pfsrd.com/spell/prestidigitation/)
+1. [Scatter Scree](https://2e.aonprd.com/Spells.aspx?ID=990)
 1. [Tanglefoot](https://pf2srd.com/spell/tanglefoot/)
 1. [Ray of Frost](https://pf2.d20pfsrd.com/spell/ray-of-frost/)
 1. [Daze](https://pf2.d20pfsrd.com/spell/daze/)
@@ -27,6 +29,7 @@
 1. [Magic Missile](https://pf2.d20pfsrd.com/spell/magic-missile/)
 1. [Mage Armor](https://pf2.d20pfsrd.com/spell/mage-armor/)
 1. [Create Water](https://pf2.d20pfsrd.com/spell/create-water/)
+1. [Resist Energy](https://pf2.d20pfsrd.com/spell/resist-energy/)
 1. [Summon Animal](https://2e.aonprd.com/Spells.aspx?ID=316)
 1. [Summon Construct](https://2e.aonprd.com/Spells.aspx?ID=318)
 1. [Sleep](https://pf2.d20pfsrd.com/spell/sleep/)
