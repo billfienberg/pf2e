@@ -3,7 +3,6 @@
 ### Cantrips
 
 - [Gale Blast](https://2e.aonprd.com/Spells.aspx?ID=917)
-- [Spout](https://2e.aonprd.com/Spells.aspx?ID=1002)
 - [Scatter Scree](https://2e.aonprd.com/Spells.aspx?ID=990)
 
 ### 1st
@@ -21,7 +20,6 @@
 - [Blur](https://pf2.d20pfsrd.com/spell/blur/)
 - [Knock](https://pf2.d20pfsrd.com/spell/knock/)
 - [Hideous Laughter](https://pf2.d20pfsrd.com/spell/hideous-laughter/)
-- [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
 - [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341)
 - [Resist Energy](https://pf2.d20pfsrd.com/spell/resist-energy/)
 - [Darkvision](https://pf2.d20pfsrd.com/spell/darkvision/)
@@ -43,7 +41,6 @@
 
 ### 4th
 
-- [Dimensional Anchor](https://pf2.d20pfsrd.com/spell/dimensional-anchor/)
 - [Enervation](https://pf2.d20pfsrd.com/spell/enervation/)
 - [Phantasmal Killer](https://pf2.d20pfsrd.com/spell/phantasmal-killer/)
 - [Shape Stone](https://pf2.d20pfsrd.com/spell/shape-stone/)
