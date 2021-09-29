@@ -16,6 +16,7 @@
 1. [Ray of Frost](https://pf2.d20pfsrd.com/spell/ray-of-frost/)
 1. [Daze](https://pf2.d20pfsrd.com/spell/daze/)
 1. [Acid Splash](https://pf2.d20pfsrd.com/spell/acid-splash/)
+1. [Spout](https://2e.aonprd.com/Spells.aspx?ID=1002)
 
 ## 1st
 
@@ -29,6 +30,7 @@
 1. [Summon Animal](https://2e.aonprd.com/Spells.aspx?ID=316)
 1. [Summon Construct](https://2e.aonprd.com/Spells.aspx?ID=318)
 1. [Sleep](https://pf2.d20pfsrd.com/spell/sleep/)
+1. [True Strike](https://2e.aonprd.com/Spells.aspx?ID=345)
 
 ## 2nd
 
@@ -38,6 +40,7 @@
 1. [Expeditious Excavation](https://pf2.d20pfsrd.com/spell/expeditious-excavation)
 1. [Mirror Image](https://pf2.d20pfsrd.com/spell/mirror-image/)
 1. [Summon Elemental](https://2e.aonprd.com/Spells.aspx?ID=320)
+1. [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
 
 ## 3rd
 
@@ -53,6 +56,7 @@
 1. [Freedom of Movement](https://pf2.d20pfsrd.com/spell/freedom-of-movement/)
 1. [Confusion](https://pf2.d20pfsrd.com/spell/confusion/)
 1. [Stoneskin](https://pf2.d20pfsrd.com/spell/stoneskin/)
+1. [Dimensional Anchor](https://pf2.d20pfsrd.com/spell/dimension-door/)
 
 ## 5th
 
