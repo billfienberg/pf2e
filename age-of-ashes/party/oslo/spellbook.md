@@ -52,16 +52,19 @@
 
 ## 4th
 
+1. [Confusion](https://pf2.d20pfsrd.com/spell/confusion/)
+1. [Dimensional Anchor](https://pf2.d20pfsrd.com/spell/dimension-door/)
 1. [Fly](https://pf2.d20pfsrd.com/spell/fly/)
 1. [Freedom of Movement](https://pf2.d20pfsrd.com/spell/freedom-of-movement/)
-1. [Confusion](https://pf2.d20pfsrd.com/spell/confusion/)
 1. [Stoneskin](https://pf2.d20pfsrd.com/spell/stoneskin/)
-1. [Dimensional Anchor](https://pf2.d20pfsrd.com/spell/dimension-door/)
 
 ## 5th
 
+1. Black Tentacles
+1. Cone of Cold
+1. [Cloak of Colors](https://2e.aonprd.com/Spells.aspx?ID=41)
+1. Crushing Despair
+1. Passwall
+1. Sending
 1. Summon Dragon
-2. Crushing Despair
-3. Black Tentacles
-4. Sending
-5. Cone of Cold
+
