@@ -2,9 +2,6 @@
 
 ### Cantrips
 
-- [Gale Blast](https://2e.aonprd.com/Spells.aspx?ID=917)
-- [Scatter Scree](https://2e.aonprd.com/Spells.aspx?ID=990)
-
 ### 1st
 
 - Air Bubble
