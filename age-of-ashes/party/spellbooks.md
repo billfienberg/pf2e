@@ -17,6 +17,7 @@
 1. [Tanglefoot](https://pf2srd.com/spell/tanglefoot/)
 1. [Ray of Frost](https://pf2.d20pfsrd.com/spell/ray-of-frost/)
 1. [Daze](https://pf2.d20pfsrd.com/spell/daze/)
+1. [Spout](https://2e.aonprd.com/Spells.aspx?ID=1002)
 
 ### 1st
 
@@ -28,6 +29,7 @@
 1. [Mage Armor](https://pf2.d20pfsrd.com/spell/mage-armor/)
 1. [Create Water](https://pf2.d20pfsrd.com/spell/create-water/)
 1. [Sleep](https://pf2.d20pfsrd.com/spell/sleep/)
+1. [True Strike](https://2e.aonprd.com/Spells.aspx?ID=345)
 
 ### 2nd
 
@@ -35,6 +37,7 @@
 1. [Expeditious Excavation](https://pf2.d20pfsrd.com/spell/expeditious-excavation)
 1. [Dispell Magic](https://pf2.d20pfsrd.com/spell/dispel-magic/)
 1. [Darkness](https://pf2.d20pfsrd.com/spell/darkness/)
+1. [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
 
 ### 3rd
 
@@ -47,6 +50,7 @@
 
 1. [Freedom of Movement](https://pf2.d20pfsrd.com/spell/freedom-of-movement/)
 1. [Fly](https://pf2.d20pfsrd.com/spell/fly/)
+1. [Dimensional Anchor](https://pf2.d20pfsrd.com/spell/dimension-door/)
 
 ### 5th
 
