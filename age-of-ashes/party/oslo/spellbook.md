@@ -2,23 +2,24 @@
 
 ## Cantrips
 
+1. [Acid Splash](https://pf2.d20pfsrd.com/spell/acid-splash/)
+1. [Daze](https://pf2.d20pfsrd.com/spell/daze/)
 1. [Detect Magic](https://pf2.d20pfsrd.com/spell/detect-magic/)
 1. [Electric Arc](https://pf2.d20pfsrd.com/spell/electric-arc/)
 1. [Gale Blast](https://2e.aonprd.com/Spells.aspx?ID=917)
+1. [Ghost Sound](https://pf2.d20pfsrd.com/spell/ghost-sound/)
 1. [Light](https://pf2.d20pfsrd.com/spell/light/)
 1. [Mage Hand](https://pf2.d20pfsrd.com/spell/mage-hand/)
-1. [Shield](https://pf2.d20pfsrd.com/spell/shield/)
-1. [Telekinetic Projectile](https://pf2.d20pfsrd.com/spell/telekinetic-projectile/)
-1. [Ghost Sound](https://pf2.d20pfsrd.com/spell/ghost-sound/)
-1. [Produce Flame](https://pf2.d20pfsrd.com/spell/produce-flame/)
-1. [Read Aura](https://pf2.d20pfsrd.com/spell/read-aura/)
 1. [Prestidigitation](https://pf2.d20pfsrd.com/spell/prestidigitation/)
-1. [Scatter Scree](https://2e.aonprd.com/Spells.aspx?ID=990)
-1. [Tanglefoot](https://pf2srd.com/spell/tanglefoot/)
+1. [Produce Flame](https://pf2.d20pfsrd.com/spell/produce-flame/)
 1. [Ray of Frost](https://pf2.d20pfsrd.com/spell/ray-of-frost/)
-1. [Daze](https://pf2.d20pfsrd.com/spell/daze/)
-1. [Acid Splash](https://pf2.d20pfsrd.com/spell/acid-splash/)
+1. [Read Aura](https://pf2.d20pfsrd.com/spell/read-aura/)
+1. [Scatter Scree](https://2e.aonprd.com/Spells.aspx?ID=990)
+1. [Shield](https://pf2.d20pfsrd.com/spell/shield/)
 1. [Spout](https://2e.aonprd.com/Spells.aspx?ID=1002)
+1. [Spout](https://2e.aonprd.com/Spells.aspx?ID=1002)
+1. [Telekinetic Projectile](https://pf2.d20pfsrd.com/spell/telekinetic-projectile/)
+1. [Tanglefoot](https://pf2srd.com/spell/tanglefoot/)
 
 ## 1st
 
@@ -41,9 +42,9 @@
 1. [Dispel Magic](https://pf2.d20pfsrd.com/spell/dispel-magic/)
 1. [Enlarge](https://pf2.d20pfsrd.com/spell/enlarge/)
 1. [Expeditious Excavation](https://pf2.d20pfsrd.com/spell/expeditious-excavation)
+1. [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
 1. [Mirror Image](https://pf2.d20pfsrd.com/spell/mirror-image/)
 1. [Summon Elemental](https://2e.aonprd.com/Spells.aspx?ID=320)
-1. [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
 
 ## 3rd
 
