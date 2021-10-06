@@ -64,11 +64,11 @@
 
 ## 5th
 
-1. Black Tentacles
-1. Cone of Cold
+1. [Black Tentacles](https://pf2.d20pfsrd.com/spell/black-tentacles/)
+1. [Cone of Cold](https://pf2.d20pfsrd.com/spell/cone-of-cold/)
 1. [Cloak of Colors](https://2e.aonprd.com/Spells.aspx?ID=41)
-1. Crushing Despair
-1. Passwall
-1. Sending
-1. Summon Dragon
+1. [Crushing Despair](https://pf2.d20pfsrd.com/spell/crushing-despair/)
+1. [Passwall](https://pf2.d20pfsrd.com/spell/passwall/)
+1. [Sending](https://pf2.d20pfsrd.com/spell/sending/)
+1. [Summon Dragon](https://2e.aonprd.com/Spells.aspx?ID=319)
 
