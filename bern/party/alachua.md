@@ -14,3 +14,10 @@
 
 - Ancestry: Goblin Scuttle
 - Class: Nimble Dodge
+
+## Languages
+
+- Common
+- Goblin
+- Dwarven (was imprisoned with somebody that spoke dwarven)
+
