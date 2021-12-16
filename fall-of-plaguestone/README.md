@@ -1,4 +1,4 @@
-# TODO: Come up with name for campaign
+# The Fall of Plaguestone
 
 ## Background
 
