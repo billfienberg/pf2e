@@ -8,6 +8,16 @@
 
 ## Racket: Thief
 
+## Perception: Expert
+
+## Saving Throws
+
+### Fortitude: Trained
+
+### Reflex: Expert
+
+### Will: Expert
+
 ## Feats
 
 ## Skills
