@@ -1,6 +1,4 @@
-# The Fall of Plaguestone
-
-## Sessions
+# Sessions
 
 1. [2021-11-02](./2021-11-02.md)
 1. [2021-12-15](./2021-12-15.md)
