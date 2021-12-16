@@ -41,6 +41,32 @@
 - Goblin
 - Dwarven (was imprisoned with somebody that spoke dwarven)
 
+## Attacks
+
+### Trained
+
+- Simple weapons
+- Rapier
+- Sap
+- Shortbow
+- Shortsword
+- Unarmed
+
+## Defenses
+
+### Trained
+
+- Light armor
+- Unarmored
+
+## Class DC
+
+### Trained 
+
+- Rogue class
+
+
+
 ## Levels
 
 ### Level 1
