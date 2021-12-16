@@ -23,6 +23,14 @@
 | Wisdom        | 10   | +2       |       |            | +2   | 10    |
 | Charisma      | 10   | +2       |       |            |      | 12    |
 
+## Languages
+
+- Common
+- Goblin
+- Dwarven (was imprisoned with somebody that spoke dwarven)
+
+## Levels
+
 ### Level 1
 
 - Ancestry: Goblin Scuttle
@@ -39,10 +47,4 @@
    - Medicine
    - Society
    - Survival
-
-## Languages
-
-- Common
-- Goblin
-- Dwarven (was imprisoned with somebody that spoke dwarven)
 
