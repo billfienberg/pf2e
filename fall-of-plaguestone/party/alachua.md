@@ -6,9 +6,9 @@
 
 ## Class: Rogue
 
-## Background: Prisoner
+### Racket: Thief
 
-## Racket: Thief
+## Background: Prisoner
 
 ## Perception: Expert
 
