@@ -20,6 +20,11 @@ Racket: Thief
 
 ## Feats
 
+- Goblin Scuttle
+- Experienced Smuggler
+- Nimble Dodge
+- Pickpocket
+
 ## Skills
 
 ## Ability Scores
@@ -83,4 +88,8 @@ Racket: Thief
    - Medicine
    - Society
    - Survival
-
+- Feats
+   - Ancestry Feat: Goblin Scuttle
+   - Background Feat: Experienced Smuggler
+   - Rogue Feat: Nimble Dodge
+   - Skill Feat: Pickpocket
