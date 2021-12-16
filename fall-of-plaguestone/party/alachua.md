@@ -2,6 +2,8 @@
 
 ## Ancestry: Goblin
 
+### Heritage: Razortooth Goblin
+
 ## Class: Rogue
 
 ## Background: Prisoner
