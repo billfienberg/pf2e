@@ -2,11 +2,11 @@
 
 ## Ancestry: Goblin
 
-### Heritage: Razortooth Goblin
+Heritage: Razortooth Goblin
 
 ## Class: Rogue
 
-### Racket: Thief
+Racket: Thief
 
 ## Background: Prisoner
 
@@ -14,11 +14,9 @@
 
 ## Saving Throws
 
-### Fortitude: Trained
-
-### Reflex: Expert
-
-### Will: Expert
+- Fortitude: Trained
+- Reflex: Expert
+- Will: Expert
 
 ## Feats
 
@@ -65,7 +63,7 @@
 
 - Rogue class
 
-
+---
 
 ## Levels
 
