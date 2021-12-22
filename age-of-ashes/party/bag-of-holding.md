@@ -3,6 +3,7 @@
 - Manacles with keys
 - 4 mithril chunks
 - 5 silver ingots
+- Rope
 
 #### Amnan
 
