@@ -18,3 +18,22 @@
 - Bloodseeker beaks (3x)
 - Average manacles and keys (3x)
 - Set of thieves tools (3x)
+
+##### Poisoners
+
+- Four doses of poison 
+- Two antidotes
+- Expanded alchemist tools (x2)
+- Magical crossbow (x2)
+- Poisoned bolts (12)
+- Manacles (good) with keys (x)
+- Leather armor (x2)
+- Magical shortsowrd (x2)
+- Letter from a loved one to an adventurer named Gigenshed
+
+##### Bruiser
+
+- Chain shirt
+- Magical greatclub
+- Manacles with key
+- Magical shortbow
