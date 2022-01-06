@@ -38,3 +38,14 @@
 - Magical greatclub
 - Manacles with key
 - Magical shortbow
+
+##### Three Poisoners
+
+- 6 doses of poison
+- 3 Expanded alchemist tools
+- 3 antidotes (greater)
+- Magical crossbows
+- 25 poisoned bolts
+- Manacles (good) + keys
+- Magical shortswords
+
