@@ -63,7 +63,6 @@
 
 ## Items
 
-- [Skeleton Key (125gp)](https://2e.aonprd.com/Equipment.aspx?ID=266)
 - [Staff of Divination (230gp)](https://2e.aonprd.com/Equipment.aspx?ID=353)
 - [Ring of Wizardry (360gp)](https://2e.aonprd.com/Equipment.aspx?ID=462)
 - [Hat of the Magi (50gp)](https://2e.aonprd.com/Equipment.aspx?ID=443)
