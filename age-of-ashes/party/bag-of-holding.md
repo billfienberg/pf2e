@@ -6,17 +6,11 @@
 
 #### Amnan
 
-- Average manacles and keys
 - Chain shirt marked with Scarlet Triad
-
-#### Dwarf
-
-- Average manacles with keeys
 
 #### Sneaks
 
 - Bloodseeker beaks (3x)
-- Average manacles and keys (3x)
 - Set of thieves tools (3x)
 
 ##### Two Poisoners 
@@ -35,7 +29,6 @@
 
 - Chain shirt
 - +1 striking greatclub
-- Manacles (average) with key
 - +1 shortbow
 
 ##### Three Poisoners
