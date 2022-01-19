@@ -2,7 +2,6 @@
 - Magical flail
 - Manacles with keys
 - 4 mithril chunks
-- 5 silver ingots
 - Rope
 
 #### Amnan
@@ -29,7 +28,7 @@
 - Poisoned bolts (12)
 - Manacles (good) with keys (x)
 - Leather armor (x2)
-- Magical shortsowrd (x2)
+- Magical shortsword (x2)
 - Letter from a loved one to an adventurer named Gigenshed
 
 ##### Bruiser
@@ -50,3 +49,26 @@
 - Manacles (good) + keys
 - Magical shortswords
 
+##### Golem Workshop
+
+- 4 greater bottled lightning
+- 3 greater silver tongue mutagens
+- 4 applications of blightburn resin
+- Corrosive rune stone
+
+##### Barushak's Body
+
+- Dagger
+- Magical ornate purple/blue/green clothing (+1 Explorer's Clothing)
+- Large flesh leaheterbound magical tome in infernal titled The Extraplanar Registry (1,500gp; Fladnag)
+- Contains three rituals (cost resources and time)
+   - Planar Ally
+   - Commune
+   - Imprisonment
+- Giant keyring with lots of keys
+- Good manacles with keys
+- +1 Striking Morningstar
+
+##### Barushak's Room
+
+- Thurible of Revelation (Moderate)
