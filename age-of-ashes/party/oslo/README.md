@@ -59,77 +59,77 @@
 
 ### Level 1
 
-- Ancestry Feat: Natural Ambition (grants free 1st-level class feat)
-- Class Feat (Wizard): Reach Spell
-- Class Feat (Wizard) from Natural Ambition: Eschew Materials
-- Class Feat (Wizard) from Universalist Arcane School: Canny Acumen (Perception)
-- General Feat from Versatile Heritage: Canny Acumen (Perception)
-- Skill Feat from Background (Dragon Scholar): Intimidating Glare
+- **Ancestry Feat**: Natural Ambition (grants free 1st-level class feat)
+- **Class Feat (Wizard)**: Reach Spell
+- **Class Feat (Wizard) from Natural Ambition**: Eschew Materials
+- **Class Feat (Wizard) from Universalist Arcane School**: Canny Acumen (Perception)
+- **General Feat from Versatile Heritage**: Canny Acumen (Perception)
+- **Skill Feat from Background (Dragon Scholar)**: Intimidating Glare
 
 ### Level 2
 
-- Skill feat: 
-- Class Feat (Wizard):
+- **Skill Feat**: 
+- **Class Feat (Wizard)**:
 
 ### Level 3
 
-- 2nd level spells
+- **2nd-Level Spells**:
    - TODO
    - TODO
-- General feat
-- Skill increase
+- **General Feat**
+- **Skill Increase**
 
 ### Level 4
 
-- Skill Feat
-- Class Feat (Wizard):
+- **Skill Feat**: 
+- **Class Feat (Wizard)**:
 
 ### Level 5
 
-- 3rd level spells
+- **3rd-Level Spells**: 
    - TODO
    - TODO
-- Ability boosts:
-- Ancestry Feat:
-- Lightning Reflexes: 
-- Skill Increase:  
+- **Ability Boosts**:
+- **Ancestry Feat**:
+- **Lightning Reflexes**: 
+- **Skill Increase**:  
 
 ### Level 6
 
-- Skill Feat
-- Class Feat (Wizard):
+- **Skill Feat**: 
+- **Class Feat (Wizard)**:
 
 ### Level 7
 
-- 4th level spells
+- **4th-Level Spells**:
    - TODO
    - TODO
-- Expert spellcaster: 
-- General feat
-- Skill increase
+- **Expert Spellcaster**: 
+- **General Feat**:
+- Skill Increase:
 
 ### Level 8
 
-- Skill Feat
-- Class Feat (Wizard):
+- **Skill Feat**:
+- **Class Feat (Wizard)**:
 
 ### Level 9
 
-- 5th level spells
+- **5th-Level Spells**:
    - Summon Dragon
    - Sending
-- Ancestry Feat: [Multitalented](https://2e.aonprd.com/Feats.aspx?ID=77) 
+- **Ancestry Feat**: [Multitalented](https://2e.aonprd.com/Feats.aspx?ID=77) 
    - Gain a 2nd-level multiclass dedication feat: [Cleric](https://2e.aonprd.com/Classes.aspx?ID=5)
-- Magical Fortitude: Fortitude save increases to expert
-- Skill Increase: Arcana (from expert to master)
+- **Magical Fortitude**: Fortitude save increases to expert
+- **Skill Increase**: Arcana (from expert to master)
 
 ### Level 10
 
-- Ability boosts: 
+- **Ability Boosts**: 
    - Dex: 14 to 16
    - Con: 16 to 18
    - Int: 19 to 20
       - Trained in new skill because INT went from +4 to +5: Medicine
    - Wis: 16 to 18
-- Skill Feat: Battle Medicine
-- Class Feat (Wizard): Enhanced Familiar
+- **Skill Feat**: Battle Medicine
+- **Class Feat (Wizard)**: Enhanced Familiar
