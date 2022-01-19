@@ -54,12 +54,10 @@
 - 4 greater bottled lightning
 - 3 greater silver tongue mutagens
 - 4 applications of blightburn resin
-- Corrosive rune stone
 
 ##### Barushak's Body
 
 - Dagger
-- Magical ornate purple/blue/green clothing (+1 Explorer's Clothing)
 - Large flesh leaheterbound magical tome in infernal titled The Extraplanar Registry (1,500gp; Fladnag)
 - Contains three rituals (cost resources and time)
    - Planar Ally
@@ -67,7 +65,7 @@
    - Imprisonment
 - Giant keyring with lots of keys
 - Good manacles with keys
-- +1 Striking Morningstar
+   
 
 ##### Barushak's Room
 
