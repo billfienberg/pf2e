@@ -54,3 +54,82 @@
     * Gold: 9
     * Silver 48
   * [Spellbook](https://github.com/billfienberg/pf2e/blob/master/age-of-ashes/party/oslo/spellbook.md)
+
+## Character Advancement (WIP)
+
+### Level 1
+
+- Ancestry Feat: Natural Ambition (grants free 1st-level class feat)
+- Class Feat (Wizard): Reach Spell
+- Class Feat (Wizard) from Natural Ambition: Eschew Materials
+- Class Feat (Wizard) from Universalist Arcane School: Canny Acumen (Perception)
+- General Feat from Versatile Heritage: Canny Acumen (Perception)
+- Skill Feat from Background (Dragon Scholar): Intimidating Glare
+
+### Level 2
+
+- Skill feat: 
+- Class Feat (Wizard):
+
+### Level 3
+
+- 2nd level spells
+   - TODO
+   - TODO
+- General feat
+- Skill increase
+
+### Level 4
+
+- Skill Feat
+- Class Feat (Wizard):
+
+### Level 5
+
+- 3rd level spells
+   - TODO
+   - TODO
+- Ability boosts:
+- Ancestry Feat:
+- Lightning Reflexes: 
+- Skill Increase:  
+
+### Level 6
+
+- Skill Feat
+- Class Feat (Wizard):
+
+### Level 7
+
+- 4th level spells
+   - TODO
+   - TODO
+- Expert spellcaster: 
+- General feat
+- Skill increase
+
+### Level 8
+
+- Skill Feat
+- Class Feat (Wizard):
+
+### Level 9
+
+- 5th level spells
+   - Summon Dragon
+   - Sending
+- Ancestry Feat: [Multitalented](https://2e.aonprd.com/Feats.aspx?ID=77) 
+   - Gain a 2nd-level multiclass dedication feat: [Cleric](https://2e.aonprd.com/Classes.aspx?ID=5)
+- Magical Fortitude: Fortitude save increases to expert
+- Skill Increase: Arcana (from expert to master)
+
+### Level 10
+
+- Ability boosts: 
+   - Dex: 14 to 16
+   - Con: 16 to 18
+   - Int: 19 to 20
+      - Trained in new skill because INT went from +4 to +5: Medicine
+   - Wis: 16 to 18
+- Skill Feat: Battle Medicine
+- Class Feat (Wizard): Enhanced Familiar
