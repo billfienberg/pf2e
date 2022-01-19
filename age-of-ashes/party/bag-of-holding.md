@@ -19,7 +19,7 @@
 - Average manacles and keys (3x)
 - Set of thieves tools (3x)
 
-##### Poisoners
+##### Two Poisoners 
 
 - Four doses of poison 
 - Two antidotes
@@ -27,8 +27,6 @@
 - +1 striking crossbows (x2)
 - Poisoned bolts (12)
 - Manacles (good) with keys (x)
-- Leather armor (x2)
-- +1 shortswords (x2)
 - Letter from a loved one to an adventurer named Gigenshed
 
 ##### Thugs (2)
@@ -51,7 +49,6 @@
 - +1 striking crossbows (x3)
 - 25 poisoned bolts
 - Manacles (good) + keys
-- +1 shortswords (x3)
 
 ##### Golem Workshop
 
