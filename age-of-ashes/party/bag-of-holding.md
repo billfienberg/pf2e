@@ -24,19 +24,23 @@
 - Four doses of poison 
 - Two antidotes
 - Expanded alchemist tools (x2)
-- Magical crossbow (x2)
+- +1 striking crossbows (x2)
 - Poisoned bolts (12)
 - Manacles (good) with keys (x)
 - Leather armor (x2)
-- Magical shortsword (x2)
+- +1 shortswords (x2)
 - Letter from a loved one to an adventurer named Gigenshed
+
+##### Thugs (2)
+
+- +1 flails (x2)
 
 ##### Bruiser
 
 - Chain shirt
-- Magical greatclub
-- Manacles with key
-- Magical shortbow
+- +1 striking greatclub
+- Manacles (average) with key
+- +1 shortbow
 
 ##### Three Poisoners
 
@@ -44,10 +48,10 @@
 - ~3 Expanded alchemist tools~ 1 left
    - Sold two for 55GP
 - 3 antidotes (greater)
-- Magical crossbows
+- +1 striking crossbows (x3)
 - 25 poisoned bolts
 - Manacles (good) + keys
-- Magical shortswords
+- +1 shortswords (x3)
 
 ##### Golem Workshop
 
