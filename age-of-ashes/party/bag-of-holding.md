@@ -23,10 +23,8 @@
 
 - Four doses of poison 
 - Two antidotes
-- Expanded alchemist tools (x2)
-- +1 striking crossbows (x2)
 - Poisoned bolts (12)
-- Manacles (good) with keys (x)
+- Manacles (good) with keys (x2)
 - Letter from a loved one to an adventurer named Gigenshed
 
 ##### Thugs (2)
@@ -46,7 +44,6 @@
 - ~3 Expanded alchemist tools~ 1 left
    - Sold two for 55GP
 - 3 antidotes (greater)
-- +1 striking crossbows (x3)
 - 25 poisoned bolts
 - Manacles (good) + keys
 
@@ -67,7 +64,6 @@
 - Giant keyring with lots of keys
 - Good manacles with keys
    
-
 ##### Barushak's Room
 
 - Thurible of Revelation (Moderate)
