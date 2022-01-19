@@ -59,6 +59,13 @@
 
 ### Level 1
 
+- **Ability Scores**:
+   - STR: 8
+   - DEX: 12
+   - CON: 14
+   - INT: 18
+   - WIS: 14
+   - CHA: 10
 - **Ancestry Feat**: Natural Ambition (grants free 1st-level class feat)
 - **Class Feat (Wizard)**: Reach Spell
 - **Class Feat (Wizard) from Natural Ambition**: Eschew Materials
@@ -90,6 +97,10 @@
    - TODO
    - TODO
 - **Ability Boosts**:
+   - DEX: 12 to 14
+   - CON: 14 to 16
+   - INT: 18 to 19
+   - WIS: 14 to 16
 - **Ancestry Feat**:
 - **Lightning Reflexes**: 
 - **Skill Increase**:  
