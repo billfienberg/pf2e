@@ -3,7 +3,7 @@
   * Ancestry: Human
   * Class: Wizard
   * Background: Dragon Scholar
-  * Level: 5
+  * Level: 10
   * Languages
     * Common
     * Draconic
@@ -13,10 +13,10 @@
     * Undercommon
   * Ability Scores
     * STR: 8
-    * DEX: 14
-    * CON: 16
-    * INT: 19
-    * WIS: 16
+    * DEX: 16
+    * CON: 18
+    * INT: 20
+    * WIS: 18
     * CHA: 10
   * Perception: Trained
   * Skills
