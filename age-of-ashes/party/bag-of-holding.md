@@ -6,6 +6,8 @@
 - 4 mithril chunks
 - Rope
 - Expanded alchemist tools
+- Good manacles (4x)
+- Giant keyring with lots of keys
 
 ## Amnan
 
@@ -21,7 +23,6 @@
 - Four doses of poison 
 - Two antidotes
 - Poisoned bolts (12)
-- Manacles (good) with keys (x2)
 - Letter from a loved one to an adventurer named Gigenshed
 
 ##### Thugs (2)
@@ -39,7 +40,6 @@
 - 6 doses of poison
 - 3 antidotes (greater)
 - 25 poisoned bolts
-- Manacles (good) + keys
 
 ##### Golem Workshop
 
@@ -55,8 +55,6 @@
    - Planar Ally
    - Commune
    - Imprisonment
-- Giant keyring with lots of keys
-- Good manacles with keys
    
 ##### Barushak's Room
 
