@@ -42,7 +42,8 @@
 ##### Three Poisoners
 
 - 6 doses of poison
-- 3 Expanded alchemist tools
+- ~3 Expanded alchemist tools~ 1 left
+   - Sold two for 55GP
 - 3 antidotes (greater)
 - Magical crossbows
 - 25 poisoned bolts
