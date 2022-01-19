@@ -1,10 +1,13 @@
+# Bag of Holding
+
+## Misc
+
 - [Hand of the Mage](https://2e.aonprd.com/Equipment.aspx?ID=440)
-- Magical flail
-- Manacles with keys
 - 4 mithril chunks
 - Rope
+- Expanded alchemist tools
 
-#### Amnan
+## Amnan
 
 - Chain shirt marked with Scarlet Triad
 
@@ -34,8 +37,6 @@
 ##### Three Poisoners
 
 - 6 doses of poison
-- ~3 Expanded alchemist tools~ 1 left
-   - Sold two for 55GP
 - 3 antidotes (greater)
 - 25 poisoned bolts
 - Manacles (good) + keys
