@@ -68,6 +68,46 @@ Racket: Thief
 
 - Rogue class
 
+## Inventory
+
+### Weapons
+
+- Dagger
+- Rapier
+- Short Bow
+
+### Armor
+
+- Leather Armor
+
+### Equipment
+
+- Bedroll
+- Chalk (10)
+- Flint & Steel
+- Rope (50ft)
+- Soap
+- Torch
+- Waterskin
+- Climbing Kit
+- Sheath
+- Thives' Tools
+- Grappling Hook
+- Signal Whistle
+- Pup Tent
+- Vial
+- Caltrops (2)
+- Crowbar
+
+### Consumables
+
+Rations (14)
+
+### Containers
+
+- Backpack
+- Belt Pouches (2)
+
 ---
 
 ## Levels
