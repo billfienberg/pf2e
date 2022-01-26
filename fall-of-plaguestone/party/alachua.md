@@ -22,10 +22,10 @@ Racket: Thief
 
 ## Feats
 
-- Goblin Scuttle
-- Experienced Smuggler
-- Nimble Dodge
-- Pickpocket
+- [Goblin Scuttle](https://2e.aonprd.com/Feats.aspx?ID=41)
+- [Experienced Smuggler](https://2e.aonprd.com/Feats.aspx?ID=779)
+- [Nimble Dodge](https://2e.aonprd.com/Feats.aspx?ID=550)
+- [Pickpocket](https://2e.aonprd.com/Feats.aspx?ID=818)
 
 ## Skills
 
