@@ -15,3 +15,17 @@
 | Caltrops (2) | 2.5 | -0.6 | 1.9 |
 | Crowbar | 1.9 | -0.5 | 1.4 |
 | Coins fomr the Strongbox | 1.4 | +4.9 | 6.3 |
+
+## Party
+
+### Halad
+
+- Key
+- Alchemical Reagents (50gp)
+- Rune stone (shadow)
+- Everburning torch (2x)
+- Heavy crossbow (eight bolts)
+- +1 Kukri
+- Leather Armor
+- Lesser Healing Potion
+- Lesser Juggernaut Mutagen
