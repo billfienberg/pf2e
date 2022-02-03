@@ -14,3 +14,4 @@
 | Vials (2) | 2.6 | -0.1 | 2.5 |
 | Caltrops (2) | 2.5 | -0.6 | 1.9 |
 | Crowbar | 1.9 | -0.5 | 1.4 |
+| Coins fomr the Strongbox | 1.4 | +4.9 | 6.3 |
