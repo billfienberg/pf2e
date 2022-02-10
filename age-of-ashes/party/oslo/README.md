@@ -153,4 +153,4 @@
 - General Feat: [Incredible Investiture](https://2e.aonprd.com/Feats.aspx?ID=795)
 - Skill Increase: Occultism (from Trained to Expert)
 - Wizard Weapon Expertise
-   - 
+   - Expert: club, crossbow, dagger, heavy crossbow, staff
