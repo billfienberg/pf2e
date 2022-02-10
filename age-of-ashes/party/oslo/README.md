@@ -3,7 +3,7 @@
   * Ancestry: Human
   * Class: Wizard
   * Background: Dragon Scholar
-  * Level: 10
+  * Level: 11
   * Languages
     * Common
     * Draconic
@@ -144,3 +144,13 @@
    - Wis: 16 to 18
 - **Skill Feat**: Battle Medicine
 - **Class Feat (Wizard)**: Enhanced Familiar
+
+### Level 11
+
+- 6th Level Spells
+   - [Dragon Form](https://pf2.d20pfsrd.com/spell/Dragon-Form)
+   - [Teleport](https://pf2.d20pfsrd.com/spell/Teleport)
+- General Feat: [Incredible Investiture](https://2e.aonprd.com/Feats.aspx?ID=795)
+- Skill Increase: Occultism (from Trained to Expert)
+- Wizard Weapon Expertise
+   - 
