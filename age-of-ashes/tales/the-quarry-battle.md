@@ -36,7 +36,7 @@ As the Shadow Giant points towards a sack hidden behind a nearby bush, you see a
 
 ## Round 7
 
-You hear the fighter pop another cork, take a gulp, and run towards the last known location of the human wizard. You hear the human wizard cast another spell. It sounds like he's never cast this one before, but you can hear an excitement in his voice. Then you hear the flap of wings, and see a faint trail of dust moving towards the north end of the quarry. You hear, but don't see, foot steps running towards the giant. 
+You hear the fighter pop another cork, take a gulp, and run towards the last known location of the human wizard. You hear the human wizard cast another spell. It sounds like he's never cast this one before, but you can hear an excitement in his voice. Then you hear the flap of wings, and see a faint trail of dust moving towards the north end of the quarry. You hear, but don't see, foot steps running towards the bush that is concealing the giant-sized treasure sack. 
 
 ## Round 8
 
