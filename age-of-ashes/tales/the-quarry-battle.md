@@ -20,7 +20,7 @@ The fighter continues sprinting closer to the giant, unfazed by the size differe
 
 ## Round 4
 
-Thinking quickly, the fighter takes out a magical vial, consumes it, and disappears. Then out of nowhere, the giant is hit with a Fireball. Still magically hastened, the archer moves towards the human wizard's voice. You hear a new incantation from the human wizard, but still don't see him. At the end of the spell, the archer also disappears from sight. Now the entire party is Invisible, and the Shadow Giant doesn't know what to do. So he moves towards the last known location of the fighter, and misses with a blind swing. Then, with a yell that echoes throughout the quarry, the Shadow Giant yells, "I could use some HELP!"
+Thinking quickly, the fighter takes out a magical vial, consumes it, and disappears. Then you hear the gnome cast a spell, and the giant is hit with a Fireball. Still magically hastened, the archer moves towards the human wizard's voice. You hear a new incantation from the human wizard, but still don't see him. At the end of the spell, the archer also disappears from sight. Now the entire party is Invisible, and the Shadow Giant doesn't know what to do. So he moves towards the last known location of the fighter, and misses with a blind swing. Then, with a yell that echoes throughout the quarry, the Shadow Giant shouts, "I could use some HELP!"
 
 ## Round 5
 
