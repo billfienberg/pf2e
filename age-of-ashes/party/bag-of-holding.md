@@ -8,6 +8,7 @@
 - Expanded alchemist tools
 - Good manacles (4x)
 - Giant keyring with lots of keys
+- Caius' Silver Longsword
 
 ## Amnan
 
