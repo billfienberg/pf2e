@@ -60,3 +60,9 @@
 ##### Barushak's Room
 
 - Thurible of Revelation (Moderate)
+
+##### Stone Giant Sack
+
+- Ivory scrollcase with platinum filigree (240gp)
+- Tankard made from elven skull dipped in silver (sapphies worth 700gp as a collection)
+- Tapestry of shadow moon (850gp) 
