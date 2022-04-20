@@ -3,7 +3,7 @@
   * Ancestry: Human
   * Class: Wizard
   * Background: Dragon Scholar
-  * Level: 11
+  * Level: 12
   * Languages
     * Common
     * Draconic
