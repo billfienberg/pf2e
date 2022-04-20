@@ -154,3 +154,8 @@
 - Skill Increase: Occultism (from Trained to Expert)
 - Wizard Weapon Expertise
    - Expert: club, crossbow, dagger, heavy crossbow, staff
+
+### Level 12
+
+- Skill feat: 
+- Wizard feat: Universal Versatility
