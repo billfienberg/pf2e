@@ -159,3 +159,5 @@
 
 - Skill feat: 
 - Wizard feat: Universal Versatility
+- Two new spells:
+   - 
