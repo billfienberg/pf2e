@@ -54,12 +54,15 @@
 
 ### 6th
 
-- [Stone To Flesh](https://pf2.d20pfsrd.com/spell/stone-to-flesh/)
+- TODO
 
 ## Feats
 
 - [Silent Spell](https://2e.aonprd.com/Feats.aspx?ID=644)
 - [Quick Recognition](https://pf2.d20pfsrd.com/feat/quick-recognition/)
+- [Spell Penetration](https://2e.aonprd.com/Feats.aspx?ID=645)
+- [Universal Versatility](https://2e.aonprd.com/Feats.aspx?ID=649)
+- [Split Slot](https://2e.aonprd.com/Feats.aspx?ID=1838)
 
 ## Items
 
