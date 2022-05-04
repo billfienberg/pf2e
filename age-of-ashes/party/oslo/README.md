@@ -157,7 +157,8 @@
 
 ### Level 12
 
-- Skill feat: 
-- Wizard feat: Universal Versatility
-- Two new spells:
-   - 
+- Skill feat: TODO
+- Wizard feat: [Hand of the Apprentice](https://2e.aonprd.com/Spells.aspx?ID=530)
+- Two new spells
+   - [Wall of Force](https://pf2.d20pfsrd.com/spell/wall-of-force/)
+   - [Stone to Flesh](https://pf2.d20pfsrd.com/spell/stone-to-flesh/)
