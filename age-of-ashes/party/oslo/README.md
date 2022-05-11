@@ -35,6 +35,7 @@
   * Heritage: Versatile Heritage (grants free general feat - Uncanny Acumen)
   * Arcane School: Universalist (grants free class feat)
   * Feats
+    * Level 1
     * Ancetry Feat: Natural Ambition (grants free 1st-level class feat)
     * Background Feat (Dragon Scholar): Intimidating Glare
     * Familiar (from Improved Familiar Attunement Arcane Thesis)
@@ -43,11 +44,15 @@
     * Class Feat: Reach Spell
     * Bonus Class Feat from Universalist Arcane School: Widen spell
     * Bonus Class Feat from Natural Ambition: Eschew Materials
+    * Level 2
     * Level 2 Class Feat: Cantrip Expansion
     * Level 2 Skill Feat: Trick Magic Item
+    * Level 3
     * Level 3 General Feat: Recognize Spell
+    * Level 4
     * Level 4 Skill Feat: Skill Training (Diplomacy)
     * Level 4 Class Feat: [Conceal Spell](https://2e.aonprd.com/Feats.aspx?ID=640)
+    * Level 5
     * Level 5 Ancestry Feat: [Clever Improviser](http://2e.aonprd.com/Feats.aspx?ID=74)
     * General Feat: [Untrained Improvisation](http://2e.aonprd.com/Feats.aspx?ID=861) (from Clever Improviser)
   * Money
