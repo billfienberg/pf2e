@@ -82,4 +82,4 @@
 - [Shadow Signet (1,000gp)](https://2e.aonprd.com/Equipment.aspx?ID=1073)
 - [Specialist's Ring (1,000gp)](https://2e.aonprd.com/Equipment.aspx?ID=1077)
 - [Resilient Rune](https://2e.aonprd.com/Equipment.aspx?ID=279)
-- [Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=54)
+- [Choker of Elocution]([url](https://2e.aonprd.com/Equipment.aspx?ID=422))
