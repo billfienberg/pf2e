@@ -1,4 +1,6 @@
-# Bag of Holding
+# Bag of Holding (Level 1)
+
+Worn by Apone
 
 ## Misc
 
