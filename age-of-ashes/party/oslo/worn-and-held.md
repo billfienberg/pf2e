@@ -11,18 +11,19 @@
 - Bracers: 
 - Bracelet: 
 - Circlet: 
-- Cloak: 
+- Cloak: Cloak of Elvenkind
 - Clothing: 
 - Collar:
 - Crown: 
 - Epaulet (ornamental shoulder piece): 
-- Eyepiece: 
+- Eyepiece: Goggles of Night
 - Garment (sleeves, scarf, etc): 
-- Gloves: 
-- Headwear (wig/hat/etc): 
+- Gloves: Healer's Gloves
+- Headwear (wig/hat/etc): Horned Helmet
 - Horseshoes: 
 - Mask:
-- Ring: 
-- Shoes: 
+- Ring 1: Ring of Minor Arcana
+- Ring 2: 
+- Shoes: Boots of Elvenkind
 
 ## Held
