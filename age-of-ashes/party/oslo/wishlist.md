@@ -68,7 +68,7 @@
 
 - [Staff of Divination (230gp)](https://2e.aonprd.com/Equipment.aspx?ID=353)
 - [Ring of Wizardry (360gp)](https://2e.aonprd.com/Equipment.aspx?ID=462)
-- [Hat of the Magi (50gp)](https://2e.aonprd.com/Equipment.aspx?ID=443)
+- [Hat of the Magi (Greater) (650gp)](https://2e.aonprd.com/Equipment.aspx?ID=443)
 - [Wand of Manifold Missiles](https://2e.aonprd.com/Equipment.aspx?ID=370)
 - [Serene Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=100)
 - [Bravo's Brew](https://2e.aonprd.com/Equipment.aspx?ID=84)
