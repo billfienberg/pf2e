@@ -39,6 +39,16 @@
 
 ## [Bag of Weasels](https://2e.aonprd.com/Equipment.aspx?ID=599)
 
+- Lasslun weasel
+
 ## [Sleeves of Storage](https://2e.aonprd.com/Equipment.aspx?ID=745)
+
+### Sleeve 1
+
+- Helsinki
+
+### Sleeve 2
+
+- TBD
 
 ## Apone's Shadow
