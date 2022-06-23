@@ -17,7 +17,7 @@
 - Crown: 
 - Epaulet (ornamental shoulder piece): 
 - Eyepiece: Goggles of Night
-- Garment (sleeves, scarf, etc): 
+- Garment (sleeves, scarf, etc): [Sleeves of Storage (Greater)](https://2e.aonprd.com/Equipment.aspx?ID=745)
 - Gloves: Healer's Gloves
 - Headwear (wig/hat/etc): Horned Helmet [Relic](https://pf2.d20pfsrd.com/rules/relics/)
    - Flare Bolt
