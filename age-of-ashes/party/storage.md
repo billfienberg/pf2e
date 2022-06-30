@@ -29,7 +29,6 @@
    - Planar Ally
    - Commune
    - Imprisonment
-- [Thurible of Revelation](https://2e.aonprd.com/Equipment.aspx?ID=267) (Moderate)
 - Ivory scrollcase with platinum filigree (240gp)
 - Tankard made from elven skull dipped in silver (sapphies worth 700gp as a collection)
 - Tapestry of shadow moon (850gp) 
