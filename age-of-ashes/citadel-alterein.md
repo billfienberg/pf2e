@@ -6,7 +6,7 @@
 
 ### A2: 
 
-### A3: 
+### A3: Party Quarters
 
 ### A4: 
 
@@ -28,9 +28,9 @@
 
 ### A13: 
 
-### A14: Tailor Room
+### A14: 
 
-### A15: 
+### A15: Infirmary
 
 ### A16: 
 
@@ -38,10 +38,10 @@
 
 ### A18: 
 
-### A19: 
+### A19: Tailor Room
 
 ### A20: 
 
-### A21: 
+### A21: Jail Cells
 
 ### A22: 
