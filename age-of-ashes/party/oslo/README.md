@@ -34,31 +34,88 @@
   * Arcane Thesis: Improved Familiar Attunement (grants free Familiar feat)
   * Heritage: Versatile Heritage (grants free general feat - Uncanny Acumen)
   * Arcane School: Universalist (grants free class feat)
-  * Feats
-    * Level 1
-    * Ancetry Feat: Natural Ambition (grants free 1st-level class feat)
-    * Background Feat (Dragon Scholar): Intimidating Glare
-    * Familiar (from Improved Familiar Attunement Arcane Thesis)
-    * General Feat: Incredible Initiative
-    * Bonus General Feat from Versatile Heritage: Uncanny Acumen (Perception)
-    * Class Feat: Reach Spell
-    * Bonus Class Feat from Universalist Arcane School: Widen spell
-    * Bonus Class Feat from Natural Ambition: Eschew Materials
-    * Level 2
-    * Level 2 Class Feat: Cantrip Expansion
-    * Level 2 Skill Feat: Trick Magic Item
-    * Level 3
-    * Level 3 General Feat: Recognize Spell
-    * Level 4
-    * Level 4 Skill Feat: Skill Training (Diplomacy)
-    * Level 4 Class Feat: [Conceal Spell](https://2e.aonprd.com/Feats.aspx?ID=640)
-    * Level 5
-    * Level 5 Ancestry Feat: [Clever Improviser](http://2e.aonprd.com/Feats.aspx?ID=74)
-    * General Feat: [Untrained Improvisation](http://2e.aonprd.com/Feats.aspx?ID=861) (from Clever Improviser)
   * Money
     * Gold: 9
     * Silver 48
   * [Spellbook](https://github.com/billfienberg/pf2e/blob/master/age-of-ashes/party/oslo/spellbook.md)
+  
+## Feats
+
+### Ancestry Features
+
+- N/A
+
+### Class Features
+
+- Level 1
+   - Arcane Thesis => Improved Familiar Attunement => Familiar
+   - Arcane Bond
+   - Arcane Spellcasting (Wizard)
+   - Arcane School => Universalist => Reach Spell
+- Level 5
+   - Lightning Reflexes
+- Level 7
+   - Expert Spellcaster
+- Level 9
+   - Magical Fortitude
+- Level 11
+   - Alertness
+   - Wizard Weapon Expertise
+
+### Ancestry Feats
+
+- Level 1
+   - Natural Ambition => Eschew Materials
+- Level 5
+   - Clever Improviser => Untrained Improvisation
+- Level 9
+   - Multitalented => Cleric Dedication
+
+### Class Feats
+
+- Level 2
+   - Cantrip Expansion (Prepared Caster)
+- Level 4
+   - Conceal Spell
+- Level 6
+   - Silent Spell
+- Level 8
+   - Bond Conservation
+- Level 10
+   - :warning: :warning: :warning: TODO :warning: :warning: :warning: 
+- Level 12
+   - Hand of the Apprentice
+
+### Skill Feats
+
+- Background
+   - Intimidating Glare
+- Level 2
+   - Trick Magic Item
+- Level 4
+   - Skill Training
+- Level 6
+   - Recognize Spell
+- Level 8
+   - Quick Recognition
+- Level 10
+   - Battle Medicine
+- Level 12
+   - :warning: :warning: :warning: TODO :warning: :warning: :warning: 
+
+### General Feats
+
+- Level 3
+   - Incredible Initiative
+- Level 7
+   - Canny Acument (Perception)
+- Level 11
+   - Incredible Investiture
+
+### Bonus Feats
+
+- Level 2
+   - Enhanced Familiar
 
 ## Character Advancement (WIP)
 
