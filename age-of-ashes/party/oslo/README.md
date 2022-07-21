@@ -41,10 +41,6 @@
   
 ## Feats
 
-### Ancestry Features
-
-- N/A
-
 ### Class Features
 
 - Level 1
@@ -101,7 +97,7 @@
 - Level 10
    - Battle Medicine
 - Level 12
-   - :warning: :warning: :warning: TODO :warning: :warning: :warning: 
+   - Skill Training (Acrobatics)
 
 ### General Feats
 
