@@ -61,6 +61,7 @@
 1. [Fly](https://pf2.d20pfsrd.com/spell/fly/)
 1. [Freedom of Movement](https://pf2.d20pfsrd.com/spell/freedom-of-movement/)
 1. [Stoneskin](https://pf2.d20pfsrd.com/spell/stoneskin/)
+1. [Shape Stone](https://pf2.d20pfsrd.com/spell/shape-stone/)
 
 ## 5th
 
