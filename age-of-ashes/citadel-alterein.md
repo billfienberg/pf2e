@@ -30,13 +30,13 @@
 
 ### A14: 
 
-### A15: Infirmary
+### A15: 
 
-### A16: 
+### A16: Conference Room
 
 ### A17: 
 
-### A18: 
+### A18: Infirmary
 
 ### A19: Tailor Room
 
