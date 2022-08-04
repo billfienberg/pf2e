@@ -44,6 +44,7 @@
 1. [Expeditious Excavation](https://pf2.d20pfsrd.com/spell/expeditious-excavation)
 1. [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
 1. [Mirror Image](https://pf2.d20pfsrd.com/spell/mirror-image/)
+1. [Mud Pit](https://2e.aonprd.com/Spells.aspx?ID=952)
 1. [Summon Elemental](https://2e.aonprd.com/Spells.aspx?ID=320)
 
 ## 3rd
