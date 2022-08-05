@@ -10,6 +10,8 @@
 - [Gust of Wind](https://pf2.d20pfsrd.com/spell/gust-of-wind/)
 - [Illusory Object](https://pf2.d20pfsrd.com/spell/illusory-object)
 - [Pummeling Rubble](https://2e.aonprd.com/Spells.aspx?ID=708)
+- [Shockwave](https://2e.aonprd.com/Spells.aspx?ID=587) 
+- 
 
 ### 2nd
 
