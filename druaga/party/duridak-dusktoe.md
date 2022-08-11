@@ -5,12 +5,13 @@
 **Size**: Medium (M)  
 **Alignment**: Neutral Good  
 **Traits**: n/a  
-**Deity**: Torag  
+**Deity**: Torag
 
 ## Ability Scores
+
 **Str**: 18 (+4)  
-**Dex**: 12 (+1)   
+**Dex**: 12 (+1)  
 **Con**: 16 (+3)  
 **Int**: 12 (+1)  
 **Wis**: 12 (+1)  
-**Cha**: 8 (-1)  
+**Cha**: 8 (-1)

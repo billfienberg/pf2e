@@ -10,11 +10,10 @@
 - [Gust of Wind](https://pf2.d20pfsrd.com/spell/gust-of-wind/)
 - [Illusory Object](https://pf2.d20pfsrd.com/spell/illusory-object)
 - [Pummeling Rubble](https://2e.aonprd.com/Spells.aspx?ID=708)
-- [Shockwave](https://2e.aonprd.com/Spells.aspx?ID=587) 
-- 
+- [Shockwave](https://2e.aonprd.com/Spells.aspx?ID=587)
+-
 
 ### 2nd
-
 
 - [Blur](https://pf2.d20pfsrd.com/spell/blur/)
 - [Knock](https://pf2.d20pfsrd.com/spell/knock/)
@@ -84,4 +83,4 @@
 - [Shadow Signet (1,000gp)](https://2e.aonprd.com/Equipment.aspx?ID=1073)
 - [Specialist's Ring (1,000gp)](https://2e.aonprd.com/Equipment.aspx?ID=1077)
 - [Resilient Rune](https://2e.aonprd.com/Equipment.aspx?ID=279)
-- [Choker of Elocution]([url](https://2e.aonprd.com/Equipment.aspx?ID=422))
+- [Choker of Elocution](<[url](https://2e.aonprd.com/Equipment.aspx?ID=422)>)

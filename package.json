@@ -1,0 +1,24 @@
+{
+  "name": "pf2e",
+  "version": "1.0.0",
+  "description": "Notes from Pathfinder 2nd Edition Campaign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|json|css|html|md)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billfienberg/pf2e.git"
+  },
+  "keywords": [],
+  "author": "Bill Fienberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billfienberg/pf2e/issues"
+  },
+  "homepage": "https://github.com/billfienberg/pf2e#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
