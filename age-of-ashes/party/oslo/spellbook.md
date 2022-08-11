@@ -74,3 +74,9 @@
 1. [Sending](https://pf2.d20pfsrd.com/spell/sending/)
 1. [Summon Dragon](https://2e.aonprd.com/Spells.aspx?ID=319)
 
+## 6th
+
+1. [Dragon Form](https://2e.aonprd.com/Spells.aspx?ID=88)
+1. [Teleport](https://2e.aonprd.com/Spells.aspx?ID=338)
+1. [Wall of Force](https://2e.aonprd.com/Spells.aspx?ID=363)
+1. [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311)
