@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/billfienberg/pf2e/issues"
   },
-  "homepage": "https://github.com/billfienberg/pf2e#readme"
+  "homepage": "https://github.com/billfienberg/pf2e#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
 }
