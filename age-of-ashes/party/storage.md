@@ -12,7 +12,7 @@
 - Chain shirt marked with Scarlet Triad
 - Bloodseeker beaks (3x)
 - Set of thieves tools (3x)
-- Four doses of poison 
+- Four doses of poison
 - Two antidotes
 - Poisoned bolts (12)
 - Letter from a loved one to an adventurer named Gigenshed
@@ -26,12 +26,12 @@
 - Dagger
 - Large flesh leaheterbound magical tome in infernal titled The Extraplanar Registry (1,500gp; Fladnag)
 - Contains three rituals (cost resources and time)
-   - Planar Ally
-   - Commune
-   - Imprisonment
+  - Planar Ally
+  - Commune
+  - Imprisonment
 - Ivory scrollcase with platinum filigree (240gp)
 - Tankard made from elven skull dipped in silver (sapphies worth 700gp as a collection)
-- Tapestry of shadow moon (850gp) 
+- Tapestry of shadow moon (850gp)
 
 ## [Bag of Weasels](https://2e.aonprd.com/Equipment.aspx?ID=599)
 

@@ -66,7 +66,7 @@ Racket: Thief
 
 ## Class DC
 
-### Trained 
+### Trained
 
 - Rogue class
 
@@ -118,20 +118,20 @@ Rations (14)
 
 - Ancestry: Goblin Scuttle
 - Class: Nimble Dodge
-- Skills (class + racket + background + 7 + Int. mod = Stealth + Thievery + Underworld Lore + 7 + 1 = base + 8) 
-   - Stealth (Class: Rogue)
-   - Thievery (Racket: Thief)
-   - Lore (Underworld)
-   - Athletics
-   - Acrobatics
-   - Deception
-   - Diplomacy
-   - Intimidation
-   - Medicine
-   - Society
-   - Survival
+- Skills (class + racket + background + 7 + Int. mod = Stealth + Thievery + Underworld Lore + 7 + 1 = base + 8)
+  - Stealth (Class: Rogue)
+  - Thievery (Racket: Thief)
+  - Lore (Underworld)
+  - Athletics
+  - Acrobatics
+  - Deception
+  - Diplomacy
+  - Intimidation
+  - Medicine
+  - Society
+  - Survival
 - Feats
-   - Ancestry Feat: Goblin Scuttle
-   - Background Feat: Experienced Smuggler
-   - Rogue Feat: Nimble Dodge
-   - Skill Feat: Pickpocket
+  - Ancestry Feat: Goblin Scuttle
+  - Background Feat: Experienced Smuggler
+  - Rogue Feat: Nimble Dodge
+  - Skill Feat: Pickpocket
