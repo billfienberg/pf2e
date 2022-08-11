@@ -58,7 +58,8 @@
 ## 4th
 
 1. [Confusion](https://pf2.d20pfsrd.com/spell/confusion/)
-1. [Dimensional Anchor](https://pf2.d20pfsrd.com/spell/dimension-door/)
+1. [Dimensional Anchor](https://2e.aonprd.com/Spells.aspx?ID=70)
+1. [Dimension Door](https://2e.aonprd.com/Spells.aspx?ID=69)
 1. [Fly](https://pf2.d20pfsrd.com/spell/fly/)
 1. [Freedom of Movement](https://pf2.d20pfsrd.com/spell/freedom-of-movement/)
 1. [Stoneskin](https://pf2.d20pfsrd.com/spell/stoneskin/)
