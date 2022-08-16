@@ -45,6 +45,8 @@
 1. [Heat Metal](https://pf2.d20pfsrd.com/spell/heat-metal/)
 1. [Mirror Image](https://pf2.d20pfsrd.com/spell/mirror-image/)
 1. [Mud Pit](https://2e.aonprd.com/Spells.aspx?ID=952)
+1. [Obscuring Mist](https://pf2.d20pfsrd.com/spell/obscuring-mist/)
+1. [Shatter](https://pf2.d20pfsrd.com/spell/shatter/)
 1. [Summon Elemental](https://2e.aonprd.com/Spells.aspx?ID=320)
 
 ## 3rd
