@@ -25,6 +25,7 @@
 
 1. [Charm](https://pf2srd.com/spell/charm/)
 1. [Color Spray](https://pf2.d20pfsrd.com/spell/color-spray/)
+1. [Echoing Weapon](https://2e.aonprd.com/Spells.aspx?ID=899)
 1. [Magic Weapon](https://pf2.d20pfsrd.com/spell/magic-weapon/)
 1. [Grease](https://pf2.d20pfsrd.com/spell/grease/)
 1. [Magic Missile](https://pf2.d20pfsrd.com/spell/magic-missile/)
