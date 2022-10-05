@@ -1,0 +1,57 @@
+# Hanoi
+
+## Class
+
+- Ancestry: Human
+- Class: Barbarian
+   - Instinct: Dragon Instinct
+   - Dragon Type
+      - Type: Gold
+      - Category: Metallic
+      - Breath Weapon: Cone of Fire
+  - Class DC: 
+- Background: Warrior
+- Deity: Sarenrae
+- Perception: Expert
+- Saving Throws
+   - Fortitude: Expert
+   - Will: Expert
+   - Reflex: Trained
+- Attacks
+   - Simple: 
+   - Martial: 
+   - Unarmed: 
+- Defenses
+   - Light: 
+   - Medium: 
+   - Unarmored: 
+- Proficiencies
+   - Acrobatics: Master
+   - Athletics: Master
+   - Intimidation: Master
+   - Medicine: Expert
+- Ancestry
+   - 1. Dragon Spit
+   - 5: Natural Ambition (Raging Intimidation)
+   - 9: Dragon Prince
+- Background
+   - 1: Intimidating Glare
+- Class
+   - 1: Sudden Charge
+   - 2: Acute Scent
+   - 4: Fast Movement
+   - 6: Dragon’s Rage Breath
+   - 8: Attack of Opportunity
+   - 10: Silencing Strike
+   - 12: Dragon’s Rage Wings
+- Skill
+   - 2: Battle Medicine
+   - 4: Titan Wrestler
+   - 6: Continual Recovery
+   - 8: Battle Cry
+   - 10: Intimidating Prowess
+   - 12: Kip Up
+- General
+   - 3: Toughness
+   - 7: Canny Acumen (Perception)
+   - 11: Fleet
