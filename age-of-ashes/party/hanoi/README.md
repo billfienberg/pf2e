@@ -4,14 +4,14 @@
 
 - Ancestry: Human
 - Class: Barbarian
-   - Instinct: Dragon Instinct
+   - Instinct: [Dragon Instinct](https://2e.aonprd.com/Instincts.aspx?ID=2)
    - Dragon Type
       - Type: Gold
       - Category: Metallic
       - Breath Weapon: Cone of Fire
   - Class DC: 
-- Background: Warrior
-- Deity: Sarenrae
+- Background: [Warrior](https://pf2.d20pfsrd.com/background/warrior/)
+- Deity: [Sarenrae](https://2e.aonprd.com/Deities.aspx?ID=16)
 - Perception: Expert
 - Saving Throws
    - Fortitude: Expert
@@ -43,7 +43,7 @@
    - 6: Dragon’s Rage Breath
    - 8: Attack of Opportunity
    - 10: Silencing Strike
-   - 12: Dragon’s Rage Wings
+   - 12: [Dragon’s Rage Wings](https://2e.aonprd.com/Feats.aspx?ID=162)
 - Skill
    - 2: Battle Medicine
    - 4: Titan Wrestler
