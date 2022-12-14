@@ -18,13 +18,13 @@
    - Will: Expert
    - Reflex: Trained
 - Attacks
-   - Simple: 
-   - Martial: 
-   - Unarmed: 
+   - Simple: Expert
+   - Martial: Expert
+   - Unarmed: Expert
 - Defenses
-   - Light: 
-   - Medium: 
-   - Unarmored: 
+   - Light: Trained
+   - Medium: Trained
+   - Unarmored: Trained
 - Proficiencies
    - Acrobatics: Master
    - Athletics: Master
