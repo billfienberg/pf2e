@@ -31,7 +31,7 @@
    - Intimidation: Master
    - Medicine: Expert
 - Ancestry
-   - 1. [Dragon Spit](https://2e.aonprd.com/Feats.aspx?ID=941)
+   - 1\. [Dragon Spit](https://2e.aonprd.com/Feats.aspx?ID=941)
    - 5: [Natural Ambition](https://2e.aonprd.com/Feats.aspx?ID=70) ([Raging Intimidation](https://2e.aonprd.com/Feats.aspx?ID=132))
    - 9: [Dragon Prince](https://2e.aonprd.com/Feats.aspx?ID=953)
 - Background
