@@ -9,7 +9,9 @@
       - Type: Gold
       - Category: Metallic
       - Breath Weapon: Cone of Fire
-  - Class DC: 
+- Class [Proficiency](https://2e.aonprd.com/Rules.aspx?ID=35): Expert (+4)
+- Key Ability Score: STR (+5)
+- [Class DC](https://2e.aonprd.com/Rules.aspx?ID=102): 10 + 4 + 5 = 19
 - Background: [Warrior](https://pf2.d20pfsrd.com/background/warrior/)
 - Deity: [Sarenrae](https://2e.aonprd.com/Deities.aspx?ID=16)
 - Perception: Expert
