@@ -36,7 +36,7 @@
    - 9: [Dragon Prince](https://2e.aonprd.com/Feats.aspx?ID=953)
 - Background
    - 1: [Intimidating Glare](https://2e.aonprd.com/Feats.aspx?ID=796)
-- Class
+- Class Feats
    - 1: [Sudden Charge](https://2e.aonprd.com/Feats.aspx?ID=134)
    - 2: [Acute Scent](https://2e.aonprd.com/Feats.aspx?ID=135)
    - 4: [Fast Movement](https://2e.aonprd.com/Feats.aspx?ID=140)
@@ -44,17 +44,47 @@
    - 8: [Attack of Opportunity](https://2e.aonprd.com/Feats.aspx?ID=145)
    - 10: [Silencing Strike](https://2e.aonprd.com/Feats.aspx?ID=1621)
    - 12: [Dragon’s Rage Wings](https://2e.aonprd.com/Feats.aspx?ID=162)
-- Skill
+- Skill Feats
    - 2: [Battle Medicine](https://2e.aonprd.com/Feats.aspx?ID=760)
    - 4: [Titan Wrestler](https://2e.aonprd.com/Feats.aspx?ID=854)
    - 6: [Continual Recovery](https://2e.aonprd.com/Feats.aspx?ID=771)
    - 8: [Battle Cry](https://2e.aonprd.com/Feats.aspx?ID=759)
    - 10: [Intimidating Prowess](https://2e.aonprd.com/Feats.aspx?ID=797)
    - 12: [Kip Up](https://2e.aonprd.com/Feats.aspx?ID=799)
-- General
+- General Feats
    - 3: [Toughness](https://2e.aonprd.com/Feats.aspx?ID=855)
    - 7: [Canny Acumen (Perception)](https://2e.aonprd.com/Feats.aspx?ID=764)
    - 11: [Fleet](https://pf2.d20pfsrd.com/feat/fleet/)
+   
+## Ability Boosts
+
+- Ancestry (Human):
+   1. STR (10 => 12)
+   2. CON (10 => 12)
+- Background: 
+   1. STR (12 => 14)
+   2. CON (12 => 14)
+- Class: STR (14 => 16)
+- Level 1-1: STR (16 => 18)
+- Level 1-2: CON (14 => 16)
+- Level 1-3: WIS (10 => 12)
+- Level 1-4: TODO
+- Level 5-1: STR (18 => 19)
+- Level 5-2: CON (16 => 18)
+- Level 5-3: WIS (12 => 14)
+- Level 5-4: TODO
+- Level 10-1: STR (19 => 20)
+- Level 10-2: CON (18 => 19)
+- Level 10-3: WIS (14 => 16)
+- Level 10-4: TODO
+- Level 15-1: STR (20 => 21)
+- Level 15-2: CON (19 => 20)
+- Level 15-3: WIS (16 => 18)
+- Level 15-4: TODO
+- Level 20-1: STR (21 => 22)
+- Level 20-2: TODO
+- Level 20-3: TODO
+- Level 20-4: TODO
 
 ## Rage 
 
