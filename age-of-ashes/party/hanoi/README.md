@@ -96,4 +96,4 @@
 
 ## Links
 
-- Create a new character #5
+- [Create a new character #5](https://github.com/billfienberg/pf2e/issues/5)
