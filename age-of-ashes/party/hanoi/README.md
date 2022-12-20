@@ -96,4 +96,4 @@
 
 ## Links
 
-- [Create a new character #5](Create a new character #5)
+- Create a new character #5
