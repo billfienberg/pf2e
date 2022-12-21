@@ -34,14 +34,14 @@
    - Medicine: Expert
 - Feats
    - Ancestry
-      - 1\. [Dragon Spit](https://2e.aonprd.com/Feats.aspx?ID=941)
+      - 1: [Dragon Spit](https://2e.aonprd.com/Feats.aspx?ID=941)
       - 5: [Natural Ambition](https://2e.aonprd.com/Feats.aspx?ID=70) ([Raging Intimidation](https://2e.aonprd.com/Feats.aspx?ID=132))
       - 9: [Dragon Prince](https://2e.aonprd.com/Feats.aspx?ID=953)
    - Background
       - 1: [Intimidating Glare](https://2e.aonprd.com/Feats.aspx?ID=796)
    - Class
       - 1: [Sudden Charge](https://2e.aonprd.com/Feats.aspx?ID=134)
-      - 2: [Acute Scent](https://2e.aonprd.com/Feats.aspx?ID=135)
+      - 2: [Acute Vision](https://2e.aonprd.com/Feats.aspx?ID=130)
       - 4: [Fast Movement](https://2e.aonprd.com/Feats.aspx?ID=140)
       - 6: [Dragon’s Rage Breath](https://2e.aonprd.com/Feats.aspx?ID=148)
       - 8: [Attack of Opportunity](https://2e.aonprd.com/Feats.aspx?ID=145)
