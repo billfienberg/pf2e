@@ -35,7 +35,7 @@ Link: https://2e.aonprd.com/Actions.aspx?ID=37
 >**Failure:** You Leap normally.
 >**Critical Failure:** You Leap normally, but then fall and land prone.
 
-### Feat: Powerful Leap
+### Feat: Powerful Leap (Level 2)
 
 Link: https://2e.aonprd.com/Feats.aspx?ID=820
 
