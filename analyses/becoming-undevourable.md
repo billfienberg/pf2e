@@ -61,6 +61,7 @@ https://2e.aonprd.com/Archetypes.aspx?ID=7
 Level: 2
 
 >Price 35 gp
+>
 >Magical enhancements make this weapon strike true. Attack rolls with this weapon gain a +1 item bonus, and the weapon can be etched with one property rune.
 
 ##### Weapon Potency (+2)
