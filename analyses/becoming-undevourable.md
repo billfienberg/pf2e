@@ -54,6 +54,10 @@ https://2e.aonprd.com/Archetypes.aspx?ID=7
 
 ### Runes
 
+#### Weapon Potency (+3)
+
+>The item bonus to attack rolls is +3, and the weapon can be etched with three property runes. - https://2e.aonprd.com/Equipment.aspx?ID=281
+
 #### Major Striking Rune
 
 >The weapon deals four weapon damage dice. - https://2e.aonprd.com/Equipment.aspx?ID=280
@@ -75,11 +79,12 @@ https://2e.aonprd.com/Archetypes.aspx?ID=7
 | Item | GP |
 | - | - |
 | Light Pick | 0.4 |
+| Weapon Potency (+3) Rune | 8,935 |
 | Major Striking Rune | 31,065 |
 | Speed Weapon Property Rune | 10,000 |
 | Grievous Weapon Property Rune | 700 |
 | Keen Weapon Property Rune | 3,000 |
-| Total| 44,765.4 |
+| Total| 53,700.4 |
 
 ## Best Case Scenario: Crit with Maxed Light Pick from Raging Dragon Instinct Barbarian Fighter
 
