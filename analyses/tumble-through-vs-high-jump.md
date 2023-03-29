@@ -49,7 +49,7 @@ Link: https://2e.aonprd.com/Feats.aspx?ID=767
 >
 >You can jump a distance greater than your Speed by spending additional actions when you Long Jump or High Jump. For each additional action spent, add your Speed to the limit on how far you can Leap.
 
-### Gear: Boots of Bounding
+### Equipment: Boots of Bounding
 
 Link: https://2e.aonprd.com/Equipment.aspx?ID=412
 
