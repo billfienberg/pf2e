@@ -54,23 +54,67 @@ https://2e.aonprd.com/Archetypes.aspx?ID=7
 
 ### Runes
 
-#### Weapon Potency (+3)
+#### Potency Runes
 
+##### Weapon Potency (+1)
+
+Level: 2
+
+>Price 35 gp
+>Magical enhancements make this weapon strike true. Attack rolls with this weapon gain a +1 item bonus, and the weapon can be etched with one property rune.
+
+##### Weapon Potency (+2)
+
+Level: 10
+
+>Price 935 gp
+>The item bonus to attack rolls is +2, and the weapon can be etched with two property runes. - https://2e.aonprd.com/Equipment.aspx?ID=281
+
+##### Weapon Potency (+3)
+
+Level: 16
+
+>Price 8,935 gp
 >The item bonus to attack rolls is +3, and the weapon can be etched with three property runes. - https://2e.aonprd.com/Equipment.aspx?ID=281
 
-#### Major Striking Rune
+#### Striking Runes
+
+##### Striking Rune
+
+Level: 4
+
+>Price: 65 gp
+>A striking rune stores destructive magic in the weapon, increasing the weapon damage dice it deals to two instead of one. For instance, a +1 striking dagger would deal 2d4 damage instead of 1d4 damage. - https://2e.aonprd.com/Equipment.aspx?ID=280
+
+##### Greater Striking Rune
+
+Level: 12
+
+>Price 1,065 gp
+>The weapon deals three weapon damage dice. - https://2e.aonprd.com/Equipment.aspx?ID=280
+
+
+##### Major Striking Rune
+
+Level: 19
 
 >The weapon deals four weapon damage dice. - https://2e.aonprd.com/Equipment.aspx?ID=280
 
 #### Grievous Weapon Property Rune
 
+Level: 9
+
 >Pick: The extra damage from the critical specialization effect increases to 4 per weapon damage die. - https://2e.aonprd.com/Equipment.aspx?ID=298
 
 #### Keen Weapon Property Rune
 
+Level: 13
+
 >The edges of a keen weapon are preternaturally sharp. Attacks with this weapon are a critical hit on a 19 on the die as long as that result is a success. This property has no effect on a 19 if the result would be a failure. - https://2e.aonprd.com/Equipment.aspx?ID=300
 
 #### Speed Weapon Property Rune
+
+Level: 16
 
 >Attacks with a speed weapon are supernaturally swift. While wielding a speed weapon, you gain the quickened condition, but you can use the additional action granted only to make a Strike with the etched weapon. - https://2e.aonprd.com/Equipment.aspx?ID=304
 
@@ -79,14 +123,24 @@ https://2e.aonprd.com/Archetypes.aspx?ID=7
 | Item | GP |
 | - | - |
 | Light Pick | 0.4 |
-| Weapon Potency (+3) Rune | 8,935 |
-| Major Striking Rune | 31,065 |
-| Speed Weapon Property Rune | 10,000 |
 | Grievous Weapon Property Rune | 700 |
 | Keen Weapon Property Rune | 3,000 |
+| Weapon Potency (+3) Rune | 8,935 |
+| Speed Weapon Property Rune | 10,000 |
+| Major Striking Rune | 31,065 |
 | Total| 53,700.4 |
 
 ## Best Case Scenario: Crit with Maxed Light Pick from Raging Dragon Instinct Barbarian Fighter
+
+### Attack
+
+- Melee attack roll result = d20 roll + Strength modifier (or optionally Dexterity modifier for a finesse weapon) + proficiency bonus + other bonuses + penalties
+- +7 from Strength
+- +20 from level
+- +8 from Legendary
+- 
+
+### Critical Hit
 
 - +4d8 from Major Striking Rune
 - +2d8 from Fatal
@@ -96,7 +150,7 @@ https://2e.aonprd.com/Archetypes.aspx?ID=7
 - +16 from Dragon Instinct Specialization Ability
 - +7 from Strength (24)
 
-### Total: 13d8 + 23
+#### Total: 13d8 + 23
 
 - Max
   - 13 * 8 + 23
@@ -108,7 +162,7 @@ https://2e.aonprd.com/Archetypes.aspx?ID=7
   - 13 * 4.5 + 23
   - 58.5 + 22 = 81.5
 
-## Normal Hit
+### Normal Hit
 
 - +4d4 from Major Striking Rune
 - +2d4 from Critical Specialization
@@ -116,7 +170,7 @@ https://2e.aonprd.com/Archetypes.aspx?ID=7
 - +16 from Dragon Instinct Specialization Ability
 - +6 from Strength (22)
 
-### Total: 8d4 + 23
+#### Total: 8d4 + 23
 
 - Max
   - 8 * 4 + 23
