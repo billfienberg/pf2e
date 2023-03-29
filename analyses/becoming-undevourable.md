@@ -79,7 +79,7 @@ https://2e.aonprd.com/Archetypes.aspx?ID=7
 | Speed Weapon Property Rune | 10,000 |
 | Grievous Weapon Property Rune | 700 |
 | Keen Weapon Property Rune | 3,000 |
-| Total| TBD |
+| Total| 44,765.4 |
 
 ## Best Case Scenario: Crit with Maxed Light Pick from Raging Dragon Instinct Barbarian Fighter
 
