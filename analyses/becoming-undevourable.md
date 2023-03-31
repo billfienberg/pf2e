@@ -138,50 +138,40 @@ Level: 16
 - Melee attack roll result = d20 roll + Strength modifier (or optionally Dexterity modifier for a finesse weapon) + proficiency bonus + other bonuses + penalties
 - +7 from Strength
 - +20 from level
-- +8 from Legendary
-- 
-
-### Critical Hit
-
-- +4d8 from Major Striking Rune
-- +2d8 from Fatal
-- +2d8 from Grievous Weapon Property Rune
-- +2d8 from Critical Specialization
-- +3d8 from Power Attack
-- +16 from Dragon Instinct Specialization Ability
-- +7 from Strength (24)
-
-#### Total: 13d8 + 23
-
-- Max
-  - 13 * 8 + 23
-  - 104 + 23 = 127
-- Min
-  - 13 * 1 + 23
-  - 13 + 23 = 36
-- Average
-  - 13 * 4.5 + 23
-  - 58.5 + 22 = 81.5
+- +6 from Legendary
+- +3 from weapon rune
 
 ### Normal Hit
 
 - +4d4 from Major Striking Rune
-- +2d4 from Critical Specialization
 - +3d4 from Power Attack
-- +16 from Dragon Instinct Specialization Ability
-- +6 from Strength (22)
+- +6 Greater Weapon Specialization
+- +16 from Rage w/ Dragon Instinct Specialization Ability
+- +7 from Strength (24)
 
-#### Total: 8d4 + 23
+#### Total: 4d4 + 3d4 + 6 + 16 + 7
 
-- Max
-  - 8 * 4 + 23
-  - 32 + 24 = 55
-- Min
-  - 8 * 1 + 23
-  - 8 + 23 = 31
-- Average
-  - 8 * 2.5 + 23
-  - 20 + 23 = 43
+- Max 56
+- Average 46.5
+- Min 37
+
+### Critical Hit
+
+- +4d8 from Major Striking Rune w/ Fatal
+- +3d8 from Power Attack
+- +6 Greater Weapon Specialization
+- +16 from Rage w/ Dragon Instinct Specialization Ability
+- +7 from Strength (24)
+- x2 from critical
+- +1d8 from Fatal
+- +8 from pick critical specialization w/ 4 dice
+- +8 from pick grievous weapon rune
+
+#### Total: (4d8 + 3d8 + 6 + 16 + 7) + (4d8 + 3d8 + 6 + 16 + 7) + (1d8+8+8)
+
+- Max 175
+- Average 141.5
+- Min 108
 
 ## Monsters
 
