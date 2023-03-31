@@ -138,8 +138,8 @@ Level: 16
 - Melee attack roll result = d20 roll + Strength modifier (or optionally Dexterity modifier for a finesse weapon) + proficiency bonus + other bonuses + penalties
 - +7 from Strength
 - +20 from level
-- +8 from Legendary
-- 
+- +6 from Legendary
+- +3 from weapon rune
 
 ### Normal Hit
 
