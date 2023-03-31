@@ -154,8 +154,8 @@ Level: 16
 - Max 56
 - Average 46.5
 - Min 37
-- 
-- ### Critical Hit
+
+### Critical Hit
 
 - +4d8 from Major Striking Rune w/ Fatal
 - +3d8 from Power Attack
