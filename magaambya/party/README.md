@@ -2,14 +2,15 @@
 
 ## Bern's Character
 
-- Ancestry: [Grippli](https://2e.aonprd.com/Ancestries.aspx?ID=46)
+- [Ancestry](https://2e.aonprd.com/Ancestries.aspx): [Grippli](https://2e.aonprd.com/Ancestries.aspx?ID=46)
 - Background: [Field Medic](https://2e.aonprd.com/Backgrounds.aspx?ID=15)
 - Class: [Druid](https://2e.aonprd.com/Classes.aspx?ID=6)
 
 ## Bill's Character
 
-- Ancestry: [Dwarf](https://2e.aonprd.com/Ancestries.aspx?ID=1)
-- Background: 
+- [Ancestry](https://2e.aonprd.com/Ancestries.aspx): [Dwarf](https://2e.aonprd.com/Ancestries.aspx?ID=1)
+- Background: [Entertainer](https://2e.aonprd.com/Backgrounds.aspx?ID=13)
+   - Heritage: [Ancient-Blooded Dwarf](https://2e.aonprd.com/Heritages.aspx?ID=1)
 - Class: [Sorcerer](https://2e.aonprd.com/Classes.aspx?ID=11)
 
 ## Claire's Character
@@ -28,7 +29,7 @@
 
 ## Josh's Character
 
-- Ancestry: Human
+- [Ancestry](https://2e.aonprd.com/Ancestries.aspx): [Human](https://2e.aonprd.com/Ancestries.aspx?ID=6)
 - Background: 
    - Cause: [Redeemer](https://2e.aonprd.com/Causes.aspx?ID=2)
 - Class: [Champion](https://2e.aonprd.com/Classes.aspx?ID=4)https://2e.aonprd.com/Classes.aspx?ID=4
