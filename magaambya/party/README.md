@@ -28,6 +28,7 @@
 
 ## Josh's Character
 
-- Ancestry: 
+- Ancestry: Human
 - Background: 
+   - Cause: [Redeemer](https://2e.aonprd.com/Causes.aspx?ID=2)
 - Class: [Champion](https://2e.aonprd.com/Classes.aspx?ID=4)https://2e.aonprd.com/Classes.aspx?ID=4
