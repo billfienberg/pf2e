@@ -8,9 +8,9 @@
 
 ## Bill's Character
 
-- Ancestry: Dwarf
+- Ancestry: [Dwarf](https://2e.aonprd.com/Ancestries.aspx?ID=1)
 - Background: 
-- Class: Sorcerer
+- Class: [Sorcerer](https://2e.aonprd.com/Classes.aspx?ID=11)
 
 ## Claire's Character
 
