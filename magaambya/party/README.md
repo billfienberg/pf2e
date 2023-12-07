@@ -10,7 +10,7 @@
 
 - [Ancestry](https://2e.aonprd.com/Ancestries.aspx): [Kobold](https://2e.aonprd.com/Ancestries.aspx?ID=18)
 - Background: [Entertainer](https://2e.aonprd.com/Backgrounds.aspx?ID=13)
-   - Heritage: TODO
+   - Heritage: [Spellscale Kobold](https://2e.aonprd.com/Heritages.aspx?ID=65)
 - Class: [Sorcerer](https://2e.aonprd.com/Classes.aspx?ID=11)
 
 ## Claire's Character
