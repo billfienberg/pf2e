@@ -8,9 +8,9 @@
 
 ## Bill's Character
 
-- [Ancestry](https://2e.aonprd.com/Ancestries.aspx): [Dwarf](https://2e.aonprd.com/Ancestries.aspx?ID=1)
+- [Ancestry](https://2e.aonprd.com/Ancestries.aspx): [Kobold](https://2e.aonprd.com/Ancestries.aspx?ID=18)
 - Background: [Entertainer](https://2e.aonprd.com/Backgrounds.aspx?ID=13)
-   - Heritage: [Ancient-Blooded Dwarf](https://2e.aonprd.com/Heritages.aspx?ID=1)
+   - Heritage: TODO
 - Class: [Sorcerer](https://2e.aonprd.com/Classes.aspx?ID=11)
 
 ## Claire's Character
