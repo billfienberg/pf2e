@@ -2,15 +2,15 @@
 
 ## Bern's Character
 
-- Ancestry:
-- Background:
-- Class: 
+- Ancestry: [Grippli](https://2e.aonprd.com/Ancestries.aspx?ID=46)
+- Background: [Field Medic](https://2e.aonprd.com/Backgrounds.aspx?ID=15)
+- Class: [Druid](https://2e.aonprd.com/Classes.aspx?ID=6)
 
 ## Bill's Character
 
-- Ancestry:
-- Background:
-- Class: 
+- Ancestry: Dwarf
+- Background: 
+- Class: Sorcerer
 
 ## Claire's Character
 
@@ -28,6 +28,6 @@
 
 ## Josh's Character
 
-- Ancestry:
-- Background:
-- Class: 
+- Ancestry: 
+- Background: 
+- Class: [Champion](https://2e.aonprd.com/Classes.aspx?ID=4)https://2e.aonprd.com/Classes.aspx?ID=4
