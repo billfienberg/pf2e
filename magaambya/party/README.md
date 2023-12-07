@@ -30,6 +30,6 @@
 ## Josh's Character
 
 - [Ancestry](https://2e.aonprd.com/Ancestries.aspx): [Human](https://2e.aonprd.com/Ancestries.aspx?ID=6)
-- Background: 
+- Background: [Guard](https://2e.aonprd.com/Backgrounds.aspx?ID=19)
    - Cause: [Redeemer](https://2e.aonprd.com/Causes.aspx?ID=2)
 - Class: [Champion](https://2e.aonprd.com/Classes.aspx?ID=4)https://2e.aonprd.com/Classes.aspx?ID=4
