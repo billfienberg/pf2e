@@ -1,1 +1,5 @@
-# Magaambya
+# Campaign: Magaambya
+
+## Links
+
+- [Party](./party)
