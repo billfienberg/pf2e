@@ -12,6 +12,7 @@
 - Background: [Entertainer](https://2e.aonprd.com/Backgrounds.aspx?ID=13)
    - Heritage: [Spellscale Kobold](https://2e.aonprd.com/Heritages.aspx?ID=65)
 - Class: [Sorcerer](https://2e.aonprd.com/Classes.aspx?ID=11)
+   - [Bloodline](https://2e.aonprd.com/Bloodlines.aspx): [Draconic](https://2e.aonprd.com/Bloodlines.aspx?ID=5)
 
 ## Claire's Character
 
