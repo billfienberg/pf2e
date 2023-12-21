@@ -13,6 +13,20 @@
    - Heritage: [Spellscale Kobold](https://2e.aonprd.com/Heritages.aspx?ID=65)
 - Class: [Sorcerer](https://2e.aonprd.com/Classes.aspx?ID=11)
    - [Bloodline](https://2e.aonprd.com/Bloodlines.aspx): [Draconic](https://2e.aonprd.com/Bloodlines.aspx?ID=5)
+      - Dragon Exemplar: [Cloud](https://2e.aonprd.com/MonsterFamilies.aspx?ID=176)
+- Skills
+   - 1st: Diplomacy
+   - 1st: Deception
+- Spells
+   - Cantrip: Shield (from Cloud Dragon)
+   - Cantrip: Detect Magic
+   - Cantrip: Electric Arc
+   - Cantrip: Telekinetic Projectile
+   - Cantrip: 
+   - 1st: True Strike (from Cloud Dragon)
+   - 1st:
+   - 1st:
+   - 1st:
 
 ## Claire's Character
 
