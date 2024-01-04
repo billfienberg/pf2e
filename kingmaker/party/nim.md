@@ -4,6 +4,6 @@
 
 - Gear
 - Spells
-  - [Feather Fall](https://2e.aonprd.com/Spells.aspx?ID=111)https://2e.aonprd.com/Spells.aspx?ID=111
+  - [Feather Fall](https://2e.aonprd.com/Spells.aspx?ID=111)
 - Feats
 - Skills
