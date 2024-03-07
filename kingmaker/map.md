@@ -90,7 +90,9 @@
 
 ## E4
 
-## E5
+## E5: The Old Sycamore
+
+- 2024-03-06: Defeat the gremlins + centipedes, recover the kobold statue
 
 ## E6
 
