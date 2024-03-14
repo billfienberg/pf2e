@@ -94,7 +94,9 @@
 
 - 2024-03-06: Defeat the gremlins + centipedes, recover the kobold statue
 
-## E6
+## E6: 
+
+- 2024-03-13: Bridge with a bell on both sides
 
 ## E7
 
