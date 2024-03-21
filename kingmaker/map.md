@@ -66,7 +66,9 @@
 
 ## D2
 
-## D3
+## D3: Temple of the ELk
+
+- 2024-03-20: Defeated the bear, temple still needs to be cleansed
 
 ## D4
 
