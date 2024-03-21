@@ -9,19 +9,24 @@
 ## Spell Repertoire
 
 - Cantrips
-  1. Electric Arc
   1. Detect Magic
+  1. Electric Arc
+  1. Message
+  1. Produce Flame
+  1. Ray of Frost
+  1. Spout
   1. Telekinetic Projectile
-  1. TODO
   1. Shield (from Bloodline): 
   1. [Gale Blast](https://2e.aonprd.com/Spells.aspx?ID=917) (from Spellscale Kobold)
-  1. Cantrip Expandion: TODO
-  1. Cantrip Expandion: TODO
 - 1st
   1. Grease
-  2. Mage Armor
-  3. TODO
-  4. True Strike (from Bloodline)
+  1. Mage Armor
+  1. Illusory Object (Signature)
+  1. 
+  1. True Strike (from Bloodline)
+- 2nd
+  1. Resist Energy (from Bloodline)
+  1. Invisibility
 
 ## Wishlist
 
@@ -29,6 +34,9 @@
   - Staves
   - Bag of Holding
 - Spells
-  - [Feather Fall](https://2e.aonprd.com/Spells.aspx?ID=111)
+  - 1st
+    - [Feather Fall](https://2e.aonprd.com/Spells.aspx?ID=111)
+  - 2nd
+    - Sudden Bolt
 - Feats
 - Skills
