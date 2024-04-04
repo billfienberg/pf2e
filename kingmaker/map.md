@@ -64,7 +64,9 @@
 
 ## D1
 
-## D2
+## D2: The Skunk River
+
+- 2024-04-03: Kill the giant frogs
 
 ## D3: Temple of the ELk
 
@@ -86,9 +88,11 @@
 
 ## E1
 
-## E2
+## E2: Mire
 
-## E3
+- 2024-04-03: Find a small boggard camp
+
+## E3 
 
 ## E4
 
@@ -110,9 +114,13 @@
 
 ## F1
 
-## F2
+## F2: Ford
 
-## F3
+- 2024-04-03: killed some Tatzlwyrms
+
+## F3: Pit Trap
+
+- 2024-04-03: Rescue a Thylacine from a pit
 
 ## F4
 
@@ -130,9 +138,16 @@
 
 ## G1
 
-## G2
+## G2: The Garden
+
+- 2024-04-03: Meet the fey
+   - Mellyantz
+   - Pervolash
+   - Tig Tater Tut
 
 ## G3
+
+- 2024-04-03: River too fast to cross
 
 ## G4
 
