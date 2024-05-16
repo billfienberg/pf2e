@@ -149,7 +149,9 @@
 
 - 2024-04-03: River too fast to cross
 
-## G4
+## G4: The Stagg Lord's Fort
+
+- 2024-05-15: Assault on The Stag Lord
 
 ## G5
 
