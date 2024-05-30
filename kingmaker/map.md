@@ -152,6 +152,8 @@
 ## G4: The Stagg Lord's Fort
 
 - 2024-05-15: Assault on The Stag Lord
+- 2024-05-22: Killed the Stag Lord
+- 2024-05-29: Killed the Stag Lord's dad, Nugrah
 
 ## G5
 
