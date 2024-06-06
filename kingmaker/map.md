@@ -157,6 +157,8 @@
 
 ## G5
 
+- 2024-06-04: Adventurers say there's a scary wolf
+
 ## G6
 
 ## G7
