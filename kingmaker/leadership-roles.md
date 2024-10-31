@@ -4,7 +4,7 @@
 - Counselor: Nim
 - General: Prydwen
 - Emissary: Jaythan
-- Magister: Vacant
+- Magister: Falcos
 - Treasurer: Aeneid
 - Viceroy: Oleg
 - Warden: Jod
