@@ -82,33 +82,36 @@
 
 ###  Cantrips
   
-1. Detect Magic
-1. Electric Arc
-1. Message
-1. Produce Flame
-1. Ray of Frost
-1. Spout
-1. Telekinetic Projectile
-1. Shield (from Bloodline): 
+1. Detect Magic (from Level 1)
+1. Electric Arc (from Level 1)
+1. Message (from Level 1)
+1. Produce Flame (from Level 1)
+1. Ray of Frost (from Level 1)
+1. Spout (from Cantrip Expansion)
+1. Telekinetic Projectile (from Cantrip Expansion)
+1. Shield (from Bloodline)
 1. [Gale Blast](https://2e.aonprd.com/Spells.aspx?ID=917) (from Spellscale Kobold)
 
 ### 1st
   
-1. Grease
-1. Mage Armor
-1. Illusory Object (Signature)
+1. Grease (from Level 1)
+1. Mage Armor (from Level 1)
+1. Illusory Object (from Level 1, Signature)
 1. True Strike (from Bloodline)
+1. TODO (from Level 2)
 
 ### 2nd
 
 1. Resist Energy (from Bloodline)
-1. Invisibility
-1. asd
-1. asd
+1. Invisibility (from Level 3)
+1. Mirror Image (from Level 3)
+1. Illusory Object (from Level 4)
 
 ### 3rd
 
 1. Haste (from Bloodline)
+1. Slow (from Level 5)
+1. TODO (from Level 5)
 
 ### 4th
 
