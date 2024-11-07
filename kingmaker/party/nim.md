@@ -1,5 +1,77 @@
 # Nim, the Kobold Sorcerer
 
+## Level 1
+
+- Ancestry: Kobold
+   - Heritage: Spellscale AKA Spellhorn Kobold
+   - Ancestry Feat: Kobold Breath
+   - Darkvision
+- Class: Sorcerer
+   - Bloodline: Draconic (Arcane)
+      - Draconic Exemplar: Fortune
+   - Blood Magic
+   - Sorcerous Potency
+- Background: Entertainer
+   - Skill Feat: Fascinating Performance
+
+## Level 2
+
+- Class Feat: Cantrip Expansion
+- Recognize Spell
+
+## Level 3
+
+- General Feat: Canny Acumen (Perception)
+- Signature Spells
+
+## Level 4
+
+- Class Feat: Arcane Evolution
+   - Arcane Evolution Skill: Society
+- Skill Feat: Bon Mot
+   - 
+
+## Level 5
+
+- Skill Increase: 
+- Ability Boosts
+   - CHA: 18 => 19
+   - CON: 12 => 14
+   - DEX: 16 => 18
+   - WIS: 12 => 14
+- Ancestry Feat: Winglets
+- Magical Fortitude
+
+## Level 6
+
+## Level 7
+
+## Level 8
+
+## Level 9
+
+## Level 10
+
+## Level 11
+
+## Level 12
+
+## Level 13
+
+## Level 14
+
+## Level 15
+
+## Level 16
+
+## Level 17
+
+## Level 18
+
+## Level 19
+
+## Level 20
+
 ## Inventory
 
 - Dagger
