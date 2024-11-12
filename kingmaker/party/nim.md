@@ -93,25 +93,25 @@
 1. Gale Blast (from ~Spellscale~ [Spellhorn Kobold](https://2e.aonprd.com/Heritages.aspx?ID=336))
 
 ### 1st
-  
+
+1. Fear (from Fortune Draconic Exemplar)
 1. Grease (from Level 1)
-1. Mage Armor (from Level 1)
+1. Mystic Armor (from Level 1)
 1. Illusory Object (from Level 1, Signature)
-1. True Strike (from Bloodline)
-1. TODO (from Level 2)
+1. Sure Strike (from Level 2)
 
 ### 2nd
 
-1. Resist Energy (from Bloodline)
-1. Invisibility (from Level 3)
+1. Invisibility (from Fortune Draconic Exemplar)
 1. Mirror Image (from Level 3)
-1. Illusory Object (from Level 4)
+1. [Illusory Creature](https://2e.aonprd.com/Spells.aspx?ID=1567) (from Level 3)
+1. [Loose Time's Arrow](https://2e.aonprd.com/Spells.aspx?ID=1185) (from Level 4)
 
 ### 3rd
 
 1. Haste (from Bloodline)
 1. Slow (from Level 5)
-1. TODO (from Level 5)
+1. Gravity Well (from Level 5)
 
 ### 4th
 
