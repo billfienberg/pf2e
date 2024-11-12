@@ -78,10 +78,10 @@
 - Staff
 - [Jade Cat](https://2e.aonprd.com/Equipment.aspx?ID=223)
 
-## Spell Repertoire
+## Spell Book
 
-###  Cantrips
-  
+### Cantrips
+
 1. Detect Magic (from Level 1)
 1. Electric Arc (from Level 1)
 1. Message (from Level 1)
@@ -90,7 +90,7 @@
 1. Spout (from Cantrip Expansion)
 1. Telekinetic Projectile (from Cantrip Expansion)
 1. Shield (from Bloodline)
-1. [Gale Blast](https://2e.aonprd.com/Spells.aspx?ID=917) (from Spellscale Kobold)
+1. Gale Blast (from SpellscaleSpellhorn Kobold)
 
 ### 1st
   
