@@ -89,8 +89,8 @@
 1. Ray of Frost (from Level 1)
 1. Spout (from Cantrip Expansion)
 1. Telekinetic Projectile (from Cantrip Expansion)
-1. Shield (from Bloodline)
-1. Gale Blast (from SpellscaleSpellhorn Kobold)
+1. Shield (from [Draconic Bloodline](https://2e.aonprd.com/Bloodlines.aspx?ID=23))
+1. Gale Blast (from ~Spellscale~ [Spellhorn Kobold](https://2e.aonprd.com/Heritages.aspx?ID=336))
 
 ### 1st
   
