@@ -78,27 +78,25 @@
 - Staff
 - [Jade Cat](https://2e.aonprd.com/Equipment.aspx?ID=223)
 
-## Spell Book
+## Spell Repertoire 
 
-### Cantrips
+### Cantrips 
 
-1. Detect Magic (from Level 1)
+1. Detect Magic (from Level 1; retrain later after getting [Arcane Sense](https://2e.aonprd.com/Feats.aspx?ID=5119)) 
 1. Electric Arc (from Level 1)
-1. Message (from Level 1)
 1. Produce Flame (from Level 1)
 1. Ray of Frost (from Level 1)
+1. Shield (from [Draconic Bloodline](https://2e.aonprd.com/Bloodlines.aspx?ID=23))
+1. Gale Blast (from ~Spellscale~ [Spellhorn Kobold](https://2e.aonprd.com/Heritages.aspx?ID=336) heritage)
 1. Spout (from Cantrip Expansion)
 1. Telekinetic Projectile (from Cantrip Expansion)
-1. Shield (from [Draconic Bloodline](https://2e.aonprd.com/Bloodlines.aspx?ID=23))
-1. Gale Blast (from ~Spellscale~ [Spellhorn Kobold](https://2e.aonprd.com/Heritages.aspx?ID=336))
 
 ### 1st
 
-1. Fear (from Fortune Draconic Exemplar)
-1. Grease (from Level 1)
+1. Fear (from Draconic Bloodline)
 1. Mystic Armor (from Level 1)
 1. Illusory Object (from Level 1, Signature)
-1. Sure Strike (from Level 2)
+1. Grease (from Level 2)
 
 ### 2nd
 
@@ -109,9 +107,51 @@
 
 ### 3rd
 
-1. Haste (from Bloodline)
+1. Haste (from Draconic Bloodline)
 1. Slow (from Level 5)
 1. Gravity Well (from Level 5)
+
+### 4th
+
+1. Spell Immunity (from Bloodline)
+
+### 5th
+
+1. Chromatic Wall (from Bloodline)
+
+### 6th
+
+1. Dragon Form (from Bloodline)
+
+### 7th
+
+1. Mask of Terror (from Bloodline)
+
+### 8th
+
+1. Prismatic Wall (from Bloodline)
+
+### 9th
+
+1. Overwhelming Presence (from Bloodline)
+
+## Spell Book (from Arcane Evolution)
+
+### Cantrips
+
+1. TODO
+
+### 1st
+
+1. Sure Strike (from Level 2)
+
+### 2nd
+
+1. TODO
+
+### 3rd
+
+1. TODO
 
 ### 4th
 
