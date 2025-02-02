@@ -182,6 +182,10 @@
 - Gear
   - Staves
   - Bag of Holding
+  - Cloak of the Bat
+  - Winged Rune
+  - Winged Sandals
+  - Soaring Wings Tattoo
 - Spells
   - Cantrips
   - 1st
@@ -200,3 +204,28 @@
     - [Time Jump](https://2e.aonprd.com/Spells.aspx?ID=1019)
 - Feats
 - Skills
+
+## Strategies
+
+### Battlefield Control
+
+- Grease
+- Illusory Object
+- Gravity Well
+
+### Damage
+
+- Flurry of Claws
+- Electric Arc
+- Ray of Frost
+- Gale Blast
+- Crossbow
+- Produce Flame
+- Spout
+
+### Buff/Debuff 
+
+- Haste
+- Slow
+- Bon Mot
+- Demoralize
