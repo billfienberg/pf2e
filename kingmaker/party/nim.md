@@ -139,15 +139,19 @@
 
 ### Cantrips
 
-1. TODO
+1. Deep Breath
+2. 
 
 ### 1st
 
 1. Sure Strike (from Level 2)
+1. Command
+1. Shockwave
+1. Illusory Disguise
 
 ### 2nd
 
-1. TODO
+1. Silence
 
 ### 3rd
 
