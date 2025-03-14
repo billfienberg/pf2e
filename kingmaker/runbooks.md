@@ -187,4 +187,6 @@ Improve Lifestyle
 
 - Gather Livestock
 
+## Activities Listed By Step
+
 ![image](https://github.com/user-attachments/assets/ce1a1f04-2dce-4adc-8148-794ab82af8e9)
