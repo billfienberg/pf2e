@@ -203,15 +203,15 @@ Mood: Determination, chaos.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
+![image](https://github.com/user-attachments/assets/48f2c9bb-2416-495a-a1ab-afd0f52e596c)
 
 ##### ImageGen3 (Google - Good Quality, Fast)
 
-TODO
+> Cannot read properties of undefined (reading 'map')
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/0bfda847-3364-4ea9-93e5-a164ec2f1cb2)
 
 ### Prompt 4: Invisible Onslaught
 
@@ -225,15 +225,15 @@ Mood: Strategy, confusion.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
+![image](https://github.com/user-attachments/assets/cae370fe-193e-4647-9dce-3b550618eeca)
 
 ##### ImageGen3 (Google - Good Quality, Fast)
 
-TODO
+> Cannot read properties of undefined (reading 'map')
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/6146f7af-c77c-4474-989f-7d8c68bff762)
 
 ### Prompt 5: Melee Combat
 
@@ -247,15 +247,11 @@ Mood: Tactical, exhilarating.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/2375bb65-736c-4c8b-8456-1f19805cb34c)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/f27645c3-a5a7-42ce-b52f-d18a01fb3fc2)
 
 ### Prompt 6: Giant's Defeat
 
@@ -264,6 +260,14 @@ Scene Description: The Shadow Giant, now visibly weakened, faces defeat. An over
 Actions: Arrows start flying from the northern end of the quarry.
 Mood: Victory tinged with caution.
 ```
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+![image](https://github.com/user-attachments/assets/524c7b53-8919-420d-9d1a-56c008f11757)
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+![image](https://github.com/user-attachments/assets/02c4ad4b-0cce-4e26-8ab1-3afc6f6d0d94)
 
 ### Prompt 7: Elf Intervention
 
@@ -277,15 +281,11 @@ Mood: Agile, acrobatic combat.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/75acc01f-327d-4f77-8734-06e504c2f0dd)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/2669a2d4-5dd9-4128-bae2-017cd1077bb5)
 
 ### Prompt 8: The Elven Twin's Stand
 
@@ -294,6 +294,14 @@ Scene Description: One fallen elf picks up her bow and strenuously fires into th
 Actions: Elven magic and arrows fill the air between quarry walls.
 Mood: Vengeance, desperation.
 ```
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+![image](https://github.com/user-attachments/assets/0b47d740-93b3-4fb7-b7b5-85eff130b6af)
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+![image](https://github.com/user-attachments/assets/facdd0f7-5ced-452d-b76d-e9982267c912)
 
 ### Prompt 9: A New Threat Emerges
 
@@ -307,15 +315,11 @@ Mood: Escalation, new challenge.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/e22ef21f-7ee7-4b19-978b-d612555fbbc0)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/dcaf1fee-864d-4bc7-aabd-4033822a4b61)
 
 ### Prompt 10: Chilling Assault
 
@@ -329,15 +333,11 @@ Mood: Magically charged danger.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/bd8db2ac-1e4a-4b8b-94db-7eb56c32feb6)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/903328b5-24ce-435f-9615-60bcc57e5194)
 
 ### Prompt 11: Coordinated Attack
 
@@ -351,15 +351,11 @@ Mood: Teamwork, precision.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/6d71fc0b-f17d-4951-af15-20bed60b426c)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/9657e568-ad2c-4ba3-aa98-54966660e26f)
 
 ### Prompt 12: Stealth and Strategy
 
@@ -373,15 +369,11 @@ Mood: Strategic withdrawal, mystery.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/a04c6fbb-4a34-4351-8c46-c2adeb8ef5a7)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/b4232d92-f1b9-40a4-8350-48467215b0b6)
 
 ### Prompt 13: Reinforced Sanctuary
 
@@ -395,15 +387,11 @@ Mood: Preparedness, hope.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/206a3d4c-6d2f-4801-aa2c-ae5243e192b2)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/83fd7a25-8923-4fbe-bc1d-840cef2726f5)
 
 ### Prompt 14: Thunderous Impact
 
@@ -417,15 +405,11 @@ Mood: Awe-inspiring magic.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/d5c719c1-54e9-4d26-8a06-81d8636364eb)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/1b45cd6c-6036-41f2-9ca2-57c401dc3c78)
 
 ### Prompt 15: Turn of the Tide
 
@@ -439,15 +423,11 @@ Mood: Triumphant turn.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/54c08d98-23cb-449e-b980-fec15a9791e0)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/8b858385-94dc-4224-b1a4-d546e1a8876c)
 
 ### Prompt 16: The Final Miseries
 
@@ -461,15 +441,11 @@ Mood: Urgency, unwavering resolve.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/8064f062-a71b-4353-8e4b-2653dce6660f)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/960eb736-3a80-4371-9ae4-2b83648e1b6f)
 
 ### Prompt 17: Parting Victory
 
@@ -483,12 +459,8 @@ Mood: Conclusion, relieved triumph.
 
 ##### DALL·E 3 (OpenAI - OK Quality, Fast)
 
-TODO
-
-##### ImageGen3 (Google - Good Quality, Fast)
-
-TODO
+![image](https://github.com/user-attachments/assets/9faf4d8e-606d-485f-b3b4-5d7854fa298c)
 
 ##### GPT Image 1 (OpenAI - Best Quality, Slow)
 
-TODO
+![image](https://github.com/user-attachments/assets/d47b17cd-7181-433b-bd74-2952f659fa96)
