@@ -154,6 +154,21 @@ Characters: The fighter, archer, gnome wizard, and human wizard.
 Mood: Suspenseful, eerie, foreboding.
 ```
 
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+N/A
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+> Cannot read properties of undefined (reading 'map')
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+![image](https://github.com/user-attachments/assets/5174b759-5b4f-45dd-b8c6-9c6980c114e1)
+
+
 ### Prompt 2: Initial Engagement
 
 ```
@@ -161,6 +176,20 @@ Scene Description: In the heart of the quarry, an enormous Shadow Giant rises th
 Actions: The human wizard pulls the Cloak of Elvenkind, vanishing from sight. The gnome wizard identifies the Shadow Giant.
 Mood: Intense, dangerous.
 ```
+
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+![image](https://github.com/user-attachments/assets/e4b4532e-3cd4-457c-9f29-7d79a07fff2d)
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+> Cannot read properties of undefined (reading 'map')
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+![image](https://github.com/user-attachments/assets/c892ce11-6b59-4ffc-a8d3-885c58fbf270)
 
 ### Prompt 3: Tactical Maneuvers
 
@@ -170,6 +199,20 @@ Characters: Fighter, human wizard, archer, Shadow Giant.
 Mood: Determination, chaos.
 ```
 
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
+
 ### Prompt 4: Invisible Onslaught
 
 ```
@@ -178,6 +221,20 @@ Actions: The Shadow Giant's visual frustration is palpable as he misses blindly 
 Mood: Strategy, confusion.
 ```
 
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
+
 ### Prompt 5: Melee Combat
 
 ```
@@ -185,6 +242,20 @@ Scene Description: The Shadow Giant reels from unseen assaults, appears wounded,
 Characters: Fighter (assumed), gnome, archer.
 Mood: Tactical, exhilarating.
 ```
+
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
 
 ### Prompt 6: Giant's Defeat
 
@@ -202,6 +273,20 @@ Actions: Fighter ascends the cliff, engages the elves, and one is pushed to the 
 Mood: Agile, acrobatic combat.
 ```
 
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
+
 ### Prompt 8: The Elven Twin's Stand
 
 ```
@@ -218,6 +303,20 @@ Actions: The invisible ferry of wings lifts the gnome to safety.
 Mood: Escalation, new challenge.
 ```
 
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
+
 ### Prompt 10: Chilling Assault
 
 ```
@@ -225,6 +324,20 @@ Scene Description: A geyser erupts under the elves, while acid burns through the
 Actions: Human archer fires from a hidden perch.
 Mood: Magically charged danger.
 ```
+
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
 
 ### Prompt 11: Coordinated Attack
 
@@ -234,6 +347,20 @@ Actions: Dual invisibility confounds the elves’ defenses.
 Mood: Teamwork, precision.
 ```
 
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
+
 ### Prompt 12: Stealth and Strategy
 
 ```
@@ -241,6 +368,20 @@ Scene Description: The gnome is ferried to higher ground, as an invisible force 
 Actions: A fiery vortex tries to engulf the elven foe.
 Mood: Strategic withdrawal, mystery.
 ```
+
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
 
 ### Prompt 13: Reinforced Sanctuary
 
@@ -250,6 +391,20 @@ Actions: Gnome crafts duplicates, starknife flies through the air.
 Mood: Preparedness, hope.
 ```
 
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
+
 ### Prompt 14: Thunderous Impact
 
 ```
@@ -257,6 +412,20 @@ Scene Description: Lightning arcs through the thug ranks, leaving scorched evide
 Actions: The gnome channels raw energy with staggering precision.
 Mood: Awe-inspiring magic.
 ```
+
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
 
 ### Prompt 15: Turn of the Tide
 
@@ -266,6 +435,20 @@ Actions: Fighter and gnome confound their foes from a secure vantage.
 Mood: Triumphant turn.
 ```
 
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
+
 ### Prompt 16: The Final Miseries
 
 ```
@@ -274,6 +457,20 @@ Actions: The party rallies, dispensing urgent aid amidst the lingering threat.
 Mood: Urgency, unwavering resolve.
 ```
 
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
+
 ### Prompt 17: Parting Victory
 
 ```
@@ -281,3 +478,17 @@ Scene Description: The fading violence yields victory as flames dissipate, and l
 Actions: Thugs scatter under the conflagration's onslaught.
 Mood: Conclusion, relieved triumph.
 ```
+
+#### Images
+
+##### DALL·E 3 (OpenAI - OK Quality, Fast)
+
+TODO
+
+##### ImageGen3 (Google - Good Quality, Fast)
+
+TODO
+
+##### GPT Image 1 (OpenAI - Best Quality, Slow)
+
+TODO
