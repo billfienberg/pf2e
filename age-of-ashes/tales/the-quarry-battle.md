@@ -143,3 +143,141 @@ Hoping the last of the thugs would flee, you hear the human wizard's voice, and 
 The remaining dwarves begin fleeing, and two get killed by the gnone's spell.
 
 Then the fighter revives the archer with the potion.
+
+## Comic Book
+
+### Prompt 1: Arrival at the Quarry
+
+```
+Scene Description: A sunset casts long shadows over a desolate quarry. The silhouette of armed guards on the horizon appears ominous, but closer inspection reveals they are gruesomely impaled on spears. The adventuring party stands shocked, poised at the top of a ramp leading down into the quarry's depths.
+Characters: The fighter, archer, gnome wizard, and human wizard.
+Mood: Suspenseful, eerie, foreboding.
+```
+
+### Prompt 2: Initial Engagement
+
+```
+Scene Description: In the heart of the quarry, an enormous Shadow Giant rises threateningly, gripping a spiked chain. He hurls a massive rock with precision, striking the archer with deadly accuracy.
+Actions: The human wizard pulls the Cloak of Elvenkind, vanishing from sight. The gnome wizard identifies the Shadow Giant.
+Mood: Intense, dangerous.
+```
+
+### Prompt 3: Tactical Maneuvers
+
+```
+Scene Description: The fighter charges forward with resolve while magical incantations echo from near the injured archer. Arrows fly, one narrowly missing the giant.
+Characters: Fighter, human wizard, archer, Shadow Giant.
+Mood: Determination, chaos.
+```
+
+### Prompt 4: Invisible Onslaught
+
+```
+Scene Description: The battlefield grows silent, as members of the party mysteriously vanish one by one. A fiery explosion engulfs the giant.
+Actions: The Shadow Giant's visual frustration is palpable as he misses blindly with his chain.
+Mood: Strategy, confusion.
+```
+
+### Prompt 5: Melee Combat
+
+```
+Scene Description: The Shadow Giant reels from unseen assaults, appears wounded, and struggles to maintain his footing amidst a flurry of invisible attacks.
+Characters: Fighter (assumed), gnome, archer.
+Mood: Tactical, exhilarating.
+```
+
+### Prompt 6: Giant's Defeat
+
+```
+Scene Description: The Shadow Giant, now visibly weakened, faces defeat. An oversized sack of treasure is pointed out with reluctant resignation as arrows rain down from distant elves.
+Actions: Arrows start flying from the northern end of the quarry.
+Mood: Victory tinged with caution.
+```
+
+### Prompt 7: Elf Intervention
+
+```
+Scene Description: Two agile elven archers appear at the northern edge of the quarry, mirroring each other’s movements with deadly synergy.
+Actions: Fighter ascends the cliff, engages the elves, and one is pushed to the quarry floor with a clatter.
+Mood: Agile, acrobatic combat.
+```
+
+### Prompt 8: The Elven Twin's Stand
+
+```
+Scene Description: One fallen elf picks up her bow and strenuously fires into the mist, hitting the concealed human wizard.
+Actions: Elven magic and arrows fill the air between quarry walls.
+Mood: Vengeance, desperation.
+```
+
+### Prompt 9: A New Threat Emerges
+
+```
+Scene Description: The Shadow Giant successfully flees as a gang of thugs surges from the cave opening, prepared to engage the party.
+Actions: The invisible ferry of wings lifts the gnome to safety.
+Mood: Escalation, new challenge.
+```
+
+### Prompt 10: Chilling Assault
+
+```
+Scene Description: A geyser erupts under the elves, while acid burns through their defenses as the thugs move closer.
+Actions: Human archer fires from a hidden perch.
+Mood: Magically charged danger.
+```
+
+### Prompt 11: Coordinated Attack
+
+```
+Scene Description: Teamwork culminates as the elves face their spectral opponents. A tripped elf gets skewered by hidden blades.
+Actions: Dual invisibility confounds the elves’ defenses.
+Mood: Teamwork, precision.
+```
+
+### Prompt 12: Stealth and Strategy
+
+```
+Scene Description: The gnome is ferried to higher ground, as an invisible force aids the party in evading the approaching thugs.
+Actions: A fiery vortex tries to engulf the elven foe.
+Mood: Strategic withdrawal, mystery.
+```
+
+### Prompt 13: Reinforced Sanctuary
+
+```
+Scene Description: The battle intensifies with the fighter administering critical aid to his allies in the cave opening.
+Actions: Gnome crafts duplicates, starknife flies through the air.
+Mood: Preparedness, hope.
+```
+
+### Prompt 14: Thunderous Impact
+
+```
+Scene Description: Lightning arcs through the thug ranks, leaving scorched evidence of magical prowess.
+Actions: The gnome channels raw energy with staggering precision.
+Mood: Awe-inspiring magic.
+```
+
+### Prompt 15: Turn of the Tide
+
+```
+Scene Description: The tide shifts as invisible acid scorches the dwarven mob, inciting terror and retreat.
+Actions: Fighter and gnome confound their foes from a secure vantage.
+Mood: Triumphant turn.
+```
+
+### Prompt 16: The Final Miseries
+
+```
+Scene Description: Beyond embers fading from the battle, the archer lies incensed by injury, clinging to survival.
+Actions: The party rallies, dispensing urgent aid amidst the lingering threat.
+Mood: Urgency, unwavering resolve.
+```
+
+### Prompt 17: Parting Victory
+
+```
+Scene Description: The fading violence yields victory as flames dissipate, and last remnants of retreat echo through the quarry.
+Actions: Thugs scatter under the conflagration's onslaught.
+Mood: Conclusion, relieved triumph.
+```
