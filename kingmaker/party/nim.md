@@ -203,7 +203,6 @@
     - [Croak Voice](https://2e.aonprd.com/Spells.aspx?ID=1951)
     - [Fireball](https://2e.aonprd.com/Spells.aspx?ID=1530)
     - [Glyph of Warding](https://2e.aonprd.com/Spells.aspx?ID=138)
-    - [Gravity Well](https://2e.aonprd.com/Spells.aspx?ID=577)
     - [Roaring Applause](https://2e.aonprd.com/Spells.aspx?ID=987)
     - [Time Jump](https://2e.aonprd.com/Spells.aspx?ID=1019)
 - Feats
