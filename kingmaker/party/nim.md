@@ -44,6 +44,13 @@
 
 ## Level 6
 
+- Skill Feat: TODO
+- Class Feat (Sorcerer)
+   - Advanced Bloodline (Draconic)
+   - Advanced Bloodline Spell: Dragon Breath
+- New Spell: Roaring Applause
+- Spell Swap: TODO
+
 ## Level 7
 
 ## Level 8
