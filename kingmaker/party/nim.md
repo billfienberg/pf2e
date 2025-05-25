@@ -1,6 +1,19 @@
 # Nim, the Kobold Sorcerer
 
-## Level 1
+## Ability Scores 
+
+| Ability  | Total | Base | Ancestry | Background | Class | Free | Level 5 | Level 10 | Level 15 | Level 20 | 
+| -------- | ----- | ---- | -------- | ---------- | ----- | ---- | ------- | -------- | -------- | -------- |
+| STR      | 10    | 10   | 0        | 0          | 0     | 0    | 0       |
+| DEX      | 18    | 10   | 2        | 2          | 0     | 2    | 2       |
+| CON      | 14    | 10   | -2/+2    | 0          | 0     | 2    | 2       |
+| INT      | 10    | 10   | 0        | 0          | 0     | 0    | 0       |
+| WIS      | 14    | 10   | 0        | 0          | 0     | 2    | 2       |
+| CHA      | 19    | 10   | 2        | 2          | 2     | 2    | 1       | 
+
+## Levels
+
+### Level 1
 
 - Ancestry: Kobold
    - Heritage: Spellscale AKA Spellhorn Kobold
@@ -13,25 +26,42 @@
    - Sorcerous Potency
 - Background: Entertainer
    - Skill Feat: Fascinating Performance
+- Attribute Flaws
+   - CON (Ancestry)
+- Attribute Boosts
+   - Ancestry (Kobold)
+      - DEX
+      - CHA
+      - CON (Free)
+   - Background (Entertainer)
+      - DEX
+      - CHA
+   - Class (Sorcerer)
+      - CHA
+   - Free
+      - CHA
+      - CON
+      - DEX
+      - WIS
 
-## Level 2
+### Level 2
 
 - Class Feat: Cantrip Expansion
 - Recognize Spell
 
-## Level 3
+### Level 3
 
 - General Feat: Canny Acumen (Perception)
 - Signature Spells
 
-## Level 4
+### Level 4
 
 - Class Feat: Arcane Evolution
    - Arcane Evolution Skill: Society
 - Skill Feat: Bon Mot
    - 
 
-## Level 5
+### Level 5
 
 - Skill Increase: 
 - Ability Boosts
@@ -42,44 +72,45 @@
 - Ancestry Feat: Winglets
 - Magical Fortitude
 
-## Level 6
+### Level 6
 
 - Skill Feat: TODO
+   - 
 - Class Feat (Sorcerer)
    - Advanced Bloodline (Draconic)
    - Advanced Bloodline Spell: Dragon Breath
 - New Spell: Roaring Applause
 - Spell Swap: TODO
 
-## Level 7
+### Level 7
 
-## Level 8
+### Level 8
 
-## Level 9
+### Level 9
 
-## Level 10
+### Level 10
 
-## Level 11
+### Level 11
 
-## Level 12
+### Level 12
 
-## Level 13
+### Level 13
 
-## Level 14
+### Level 14
 
-## Level 15
+### Level 15
 
-## Level 16
+### Level 16
 
-## Level 17
+### Level 17
 
-## Level 18
+### Level 18
 
-## Level 19
+### Level 19
 
-## Level 20
+### Level 20
 
-## Inventory
+### Inventory
 
 - Dagger
 - Staff
