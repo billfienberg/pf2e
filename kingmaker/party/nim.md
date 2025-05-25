@@ -11,6 +11,28 @@
 | WIS      | 14    | 10   | 0        | 0          | 0     | 2    | 2       |
 | CHA      | 19    | 10   | 2        | 2          | 2     | 2    | 1       | 
 
+## Skills
+
+| Skill          | Untrained | Trained    | Expert | Master | Legendary |
+| -------------- | --------- | ---------- | ------ | ------ | --------- |
+| Acrobatics     |           | Level 3    |
+| Arcana         |           | Bloodline  |
+| Athletics      |           | Level 5    |
+| Crafting       |           |            |
+| Deception      |           | Level 1    |
+| Diplomacy      |           | Level 1    |
+| Intimidation   |           | Bloodline  | 
+| Lore (Theater) |           | Background |
+| Medicine       |           |            |
+| Nature         |           |            |
+| Occultism      |           |            |
+| Performace     |           | Background |
+| Religion       |           |            |
+| Society        |           |            |
+| Stealth        |           |            |
+| Survival       |           |            |
+| Thivery        |           |            |
+
 ## Levels
 
 ### Level 1
@@ -23,7 +45,7 @@
    - Bloodline: Draconic (Arcane)
       - Draconic Exemplar: Fortune
    - Blood Magic
-   - Sorcerous Potency
+   - Class Feature: Sorcerous Potency
 - Background: Entertainer
    - Skill Feat: Fascinating Performance
 - Attribute Flaws
@@ -52,7 +74,7 @@
 ### Level 3
 
 - General Feat: Canny Acumen (Perception)
-- Signature Spells
+- Class Feature: Signature Spells
 
 ### Level 4
 
@@ -70,7 +92,7 @@
    - DEX: 16 => 18
    - WIS: 12 => 14
 - Ancestry Feat: Winglets
-- Magical Fortitude
+- Class Feature: Magical Fortitude
 
 ### Level 6
 
