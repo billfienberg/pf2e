@@ -101,7 +101,8 @@
    - Advanced Bloodline (Draconic)
    - Advanced Bloodline Spell: Dragon Breath
 - New Spell: Roaring Applause
-- Spell Swap: TODO
+- Spell Swap: Gravity Well => Summon Animal
+- Signature Spell: 
 
 ### Level 7
 
@@ -144,7 +145,7 @@
 1. Detect Magic (from Level 1; retrain later after getting [Arcane Sense](https://2e.aonprd.com/Feats.aspx?ID=5119)) 
 1. Electric Arc (from Level 1)
 1. Produce Flame (from Level 1)
-1. Ray of Frost (from Level 1)
+1. [Frostbite](https://2e.aonprd.com/Spells.aspx?ID=1539) (from Level 1)
 1. Shield (from [Draconic Bloodline](https://2e.aonprd.com/Bloodlines.aspx?ID=23))
 1. Gale Blast (from ~Spellscale~ [Spellhorn Kobold](https://2e.aonprd.com/Heritages.aspx?ID=336) heritage)
 1. Spout (from Cantrip Expansion)
@@ -168,7 +169,9 @@
 
 1. Haste (from Draconic Bloodline)
 1. Slow (from Level 5)
-1. Gravity Well (from Level 5)
+1. ~Gravity Well (from Level 5)~ Replaced with Summon Animal
+1. [Summon Animal (Signature)](https://2e.aonprd.com/Spells.aspx?ID=1694)
+2. [Roaring Applause (from Level 6))](https://2e.aonprd.com/Spells.aspx?ID=987)
 
 ### 4th
 
@@ -262,7 +265,6 @@
     - [Croak Voice](https://2e.aonprd.com/Spells.aspx?ID=1951)
     - [Fireball](https://2e.aonprd.com/Spells.aspx?ID=1530)
     - [Glyph of Warding](https://2e.aonprd.com/Spells.aspx?ID=138)
-    - [Roaring Applause](https://2e.aonprd.com/Spells.aspx?ID=987)
     - [Time Jump](https://2e.aonprd.com/Spells.aspx?ID=1019)
 - Feats
 - Skills
