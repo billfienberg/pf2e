@@ -96,8 +96,7 @@
 
 ### Level 6
 
-- Skill Feat: TODO
-   - 
+- Skill Feat: [Intimidating Glare](https://2e.aonprd.com/Feats.aspx?ID=5162)
 - Class Feat (Sorcerer)
    - Advanced Bloodline (Draconic)
    - Advanced Bloodline Spell: Dragon Breath
