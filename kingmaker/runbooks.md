@@ -20,7 +20,7 @@
 - Quell Unrest (Arts, Folklore, Intrigue, Magic, Politics, Warfare)
   - Only once per kingdoms turn
 - Rest and Relax (Arts, Boating, Scholarship, Trade, Wilderness)
-  - DC +4  if Rest and Relax on previous kingdom turn
+  - DC +4 if Rest and Relax on previous kingdom turn
 - Fortify Hex
   - Requires claimed hex with no settlement
 - Provide Care (basic check)
@@ -111,10 +111,10 @@
 - New Leadership
 - Pledge of Fealty (trained)
 - Quell Unrest
-   - You can attempt a basic Arts, Folklore, Intrigue, Magic, Politics, or Warfare check to Quell Unrest, but you can never use the same skill for this activity in consecutive Kingdom turns. This activity cannot be attempted more than once per Kingdom turn.
+  - You can attempt a basic Arts, Folklore, Intrigue, Magic, Politics, or Warfare check to Quell Unrest, but you can never use the same skill for this activity in consecutive Kingdom turns. This activity cannot be attempted more than once per Kingdom turn.
 - Repair Reputation (trained)
 - Rest and Relax
-   - If your kingdom Rested and Relaxed the previous Kingdom turn, the DC increases by 4, as your kingdom’s production and output hasn’t had a chance to catch up to all those vacation days.
+  - If your kingdom Rested and Relaxed the previous Kingdom turn, the DC increases by 4, as your kingdom’s production and output hasn’t had a chance to catch up to all those vacation days.
 
 ### Agriculture (Stability)
 
@@ -190,4 +190,3 @@ Improve Lifestyle
 ### Wilderness (Stability)
 
 - Gather Livestock
-

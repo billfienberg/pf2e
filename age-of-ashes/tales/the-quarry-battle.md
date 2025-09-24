@@ -168,7 +168,6 @@ N/A
 
 ![image](https://github.com/user-attachments/assets/5174b759-5b4f-45dd-b8c6-9c6980c114e1)
 
-
 ### Prompt 2: Initial Engagement
 
 ```

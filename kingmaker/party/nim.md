@@ -1,15 +1,15 @@
 # Nim, the Kobold Sorcerer
 
-## Ability Scores 
+## Ability Scores
 
-| Ability  | Total | Base | Ancestry | Background | Class | Free | Level 5 | Level 10 | Level 15 | Level 20 | 
-| -------- | ----- | ---- | -------- | ---------- | ----- | ---- | ------- | -------- | -------- | -------- |
-| STR      | 10    | 10   | 0        | 0          | 0     | 0    | 0       |
-| DEX      | 18    | 10   | 2        | 2          | 0     | 2    | 2       |
-| CON      | 14    | 10   | -2/+2    | 0          | 0     | 2    | 2       |
-| INT      | 10    | 10   | 0        | 0          | 0     | 0    | 0       |
-| WIS      | 14    | 10   | 0        | 0          | 0     | 2    | 2       |
-| CHA      | 19    | 10   | 2        | 2          | 2     | 2    | 1       | 
+| Ability | Total | Base | Ancestry | Background | Class | Free | Level 5 | Level 10 | Level 15 | Level 20 |
+| ------- | ----- | ---- | -------- | ---------- | ----- | ---- | ------- | -------- | -------- | -------- |
+| STR     | 10    | 10   | 0        | 0          | 0     | 0    | 0       |
+| DEX     | 18    | 10   | 2        | 2          | 0     | 2    | 2       |
+| CON     | 14    | 10   | -2/+2    | 0          | 0     | 2    | 2       |
+| INT     | 10    | 10   | 0        | 0          | 0     | 0    | 0       |
+| WIS     | 14    | 10   | 0        | 0          | 0     | 2    | 2       |
+| CHA     | 19    | 10   | 2        | 2          | 2     | 2    | 1       |
 
 ## Skills
 
@@ -21,7 +21,7 @@
 | Crafting       |           |            |
 | Deception      |           | Level 1    |
 | Diplomacy      |           | Level 1    |
-| Intimidation   |           | Bloodline  | 
+| Intimidation   |           | Bloodline  |
 | Lore (Theater) |           | Background |
 | Medicine       |           |            |
 | Nature         |           |            |
@@ -38,33 +38,33 @@
 ### Level 1
 
 - Ancestry: Kobold
-   - Heritage: Spellscale AKA Spellhorn Kobold
-   - Ancestry Feat: Kobold Breath
-   - Darkvision
+  - Heritage: Spellscale AKA Spellhorn Kobold
+  - Ancestry Feat: Kobold Breath
+  - Darkvision
 - Class: Sorcerer
-   - Bloodline: Draconic (Arcane)
-      - Draconic Exemplar: Fortune
-   - Blood Magic
-   - Class Feature: Sorcerous Potency
+  - Bloodline: Draconic (Arcane)
+    - Draconic Exemplar: Fortune
+  - Blood Magic
+  - Class Feature: Sorcerous Potency
 - Background: Entertainer
-   - Skill Feat: Fascinating Performance
+  - Skill Feat: Fascinating Performance
 - Attribute Flaws
-   - CON (Ancestry)
+  - CON (Ancestry)
 - Attribute Boosts
-   - Ancestry (Kobold)
-      - DEX
-      - CHA
-      - CON (Free)
-   - Background (Entertainer)
-      - DEX
-      - CHA
-   - Class (Sorcerer)
-      - CHA
-   - Free
-      - CHA
-      - CON
-      - DEX
-      - WIS
+  - Ancestry (Kobold)
+    - DEX
+    - CHA
+    - CON (Free)
+  - Background (Entertainer)
+    - DEX
+    - CHA
+  - Class (Sorcerer)
+    - CHA
+  - Free
+    - CHA
+    - CON
+    - DEX
+    - WIS
 
 ### Level 2
 
@@ -79,18 +79,18 @@
 ### Level 4
 
 - Class Feat: Arcane Evolution
-   - Arcane Evolution Skill: Society
+  - Arcane Evolution Skill: Society
 - Skill Feat: Bon Mot
-   - 
+  -
 
 ### Level 5
 
-- Skill Increase: 
+- Skill Increase:
 - Ability Boosts
-   - CHA: 18 => 19
-   - CON: 12 => 14
-   - DEX: 16 => 18
-   - WIS: 12 => 14
+  - CHA: 18 => 19
+  - CON: 12 => 14
+  - DEX: 16 => 18
+  - WIS: 12 => 14
 - Ancestry Feat: Winglets
 - Class Feature: Magical Fortitude
 
@@ -98,11 +98,11 @@
 
 - Skill Feat: [Intimidating Glare](https://2e.aonprd.com/Feats.aspx?ID=5162)
 - Class Feat (Sorcerer)
-   - Advanced Bloodline (Draconic)
-   - Advanced Bloodline Spell: Dragon Breath
+  - Advanced Bloodline (Draconic)
+  - Advanced Bloodline Spell: Dragon Breath
 - New Spell: Roaring Applause
 - Spell Swap: Gravity Well => Summon Animal
-- Signature Spell: 
+- Signature Spell:
 
 ### Level 7
 
@@ -138,11 +138,11 @@
 - Staff
 - [Jade Cat](https://2e.aonprd.com/Equipment.aspx?ID=223)
 
-## Spell Repertoire 
+## Spell Repertoire
 
-### Cantrips 
+### Cantrips
 
-1. Detect Magic (from Level 1; retrain later after getting [Arcane Sense](https://2e.aonprd.com/Feats.aspx?ID=5119)) 
+1. Detect Magic (from Level 1; retrain later after getting [Arcane Sense](https://2e.aonprd.com/Feats.aspx?ID=5119))
 1. Electric Arc (from Level 1)
 1. Produce Flame (from Level 1)
 1. [Frostbite](https://2e.aonprd.com/Spells.aspx?ID=1539) (from Level 1)
@@ -171,7 +171,7 @@
 1. Slow (from Level 5)
 1. ~Gravity Well (from Level 5)~ Replaced with Summon Animal
 1. [Summon Animal (Signature)](https://2e.aonprd.com/Spells.aspx?ID=1694)
-2. [Roaring Applause (from Level 6))](https://2e.aonprd.com/Spells.aspx?ID=987)
+1. [Roaring Applause (from Level 6))](https://2e.aonprd.com/Spells.aspx?ID=987)
 
 ### 4th
 
@@ -202,7 +202,7 @@
 ### Cantrips
 
 1. Deep Breath
-2. 
+2.
 
 ### 1st
 
@@ -257,7 +257,7 @@
   - 1st
     - [Feather Fall](https://2e.aonprd.com/Spells.aspx?ID=111)
     - [Jump](https://2e.aonprd.com/Spells.aspx?ID=1580)
-    - 
+    -
   - 2nd
     - Sudden Bolt
   - 3rd
@@ -266,7 +266,7 @@
     - [Fireball](https://2e.aonprd.com/Spells.aspx?ID=1530)
     - [Glyph of Warding](https://2e.aonprd.com/Spells.aspx?ID=138)
     - [Time Jump](https://2e.aonprd.com/Spells.aspx?ID=1019)
-    - [Earthbind (scroll)]((https://2e.aonprd.com/Spells.aspx?ID=1506))
+    - [Earthbind (scroll)](<(https://2e.aonprd.com/Spells.aspx?ID=1506)>)
 - Feats
 - Skills
 
@@ -288,7 +288,7 @@
 - Produce Flame
 - Spout
 
-### Buff/Debuff 
+### Buff/Debuff
 
 - Haste
 - Slow

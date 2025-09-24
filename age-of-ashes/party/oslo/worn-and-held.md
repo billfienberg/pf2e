@@ -29,10 +29,10 @@
     - Prerequisites: The relic is a worn item
     - While wearing the relic, you do not trigger traps that use weight or pressure plates as a trigger. Also, whenever you fall, you reduce the falling damage by the level of the relic. If this would reduce the falling damage to 0, you land on your feet and are not prone. The relic grants a +1 item bonus to Athletics checks made to Jump, increasing to +2 at 9th level and +3 at 17th level.
   - Propelling Winds
-     - Aspect: air
-     - Activate [two-actions] command, Interact
-     - Frequency: once per hour
-     - Effect: The relic casts [fly](https://pf2.d20pfsrd.com/spell/fly/) targeting you
+    - Aspect: air
+    - Activate [two-actions] command, Interact
+    - Frequency: once per hour
+    - Effect: The relic casts [fly](https://pf2.d20pfsrd.com/spell/fly/) targeting you
 - Horseshoes:
 - Mask:
 - Ring 1: Ring of Minor Arcana

@@ -92,7 +92,7 @@
 
 - 2024-04-03: Find a small boggard camp
 
-## E3 
+## E3
 
 ## E4
 
@@ -100,7 +100,7 @@
 
 - 2024-03-06: Defeat the gremlins + centipedes, recover the kobold statue
 
-## E6: 
+## E6:
 
 - 2024-03-13: Bridge with a bell on both sides
 
@@ -141,9 +141,9 @@
 ## G2: The Garden
 
 - 2024-04-03: Meet the fey
-   - Mellyantz
-   - Pervolash
-   - Tig Tater Tut
+  - Mellyantz
+  - Pervolash
+  - Tig Tater Tut
 
 ## G3
 
