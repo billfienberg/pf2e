@@ -1,4 +1,4 @@
-# Nim, the Kobold Sorcerer
+# Nim Thunderwing, the Kobold Sorcerer
 
 ## Ability Scores
 
