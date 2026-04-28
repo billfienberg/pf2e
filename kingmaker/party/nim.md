@@ -255,6 +255,8 @@
   - Winged Rune
   - Winged Sandals
   - Soaring Wings Tattoo
+  - [Wand](https://2e.aonprd.com/Equipment.aspx?ID=3050) of [Translate](https://2e.aonprd.com/Spells.aspx?ID=1723) - 160gp
+  - [Insistent Door Knocker](https://2e.aonprd.com/Equipment.aspx?ID=511) - Level: 11, Cost: 1,250gp
 - Spells
   - Cantrips
   - 1st
@@ -270,6 +272,12 @@
     - [Glyph of Warding](https://2e.aonprd.com/Spells.aspx?ID=138)
     - [Time Jump](https://2e.aonprd.com/Spells.aspx?ID=1019)
     - [Earthbind (scroll)](<(https://2e.aonprd.com/Spells.aspx?ID=1506)>)
+  - 4th
+  - 5th
+    - [Quicken Time](https://2e.aonprd.com/Spells.aspx?ID=2604)
+    - [Umbral Journey]([url](https://2e.aonprd.com/Spells.aspx?ID=1729) - Uncommon
+    - [Magic Passage](https://2e.aonprd.com/Spells.aspx?ID=1591) - Uncommon
+    - 
 - Feats
 - Skills
 
