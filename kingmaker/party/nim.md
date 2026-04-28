@@ -277,7 +277,14 @@
     - [Quicken Time](https://2e.aonprd.com/Spells.aspx?ID=2604)
     - [Umbral Journey]([url](https://2e.aonprd.com/Spells.aspx?ID=1729) - Uncommon
     - [Magic Passage](https://2e.aonprd.com/Spells.aspx?ID=1591) - Uncommon
-    - 
+    - [Flames of Ego](https://2e.aonprd.com/Spells.aspx?ID=1357)
+    - [Freezing Rain](https://2e.aonprd.com/Spells.aspx?ID=1388)
+    - [Glimmer of Charm](https://2e.aonprd.com/Spells.aspx?ID=919)
+    - [Howling Blizzard](https://2e.aonprd.com/Spells.aspx?ID=1559)
+    - [Wave of Despair](https://2e.aonprd.com/Spells.aspx?ID=1757)
+    - [Wall of Stone](https://2e.aonprd.com/Spells.aspx?ID=1751)
+    - [Shadow Siphon](https://2e.aonprd.com/Spells.aspx?ID=274)
+    - [Hallucination](https://2e.aonprd.com/Spells.aspx?ID=1551)
 - Feats
 - Skills
 
